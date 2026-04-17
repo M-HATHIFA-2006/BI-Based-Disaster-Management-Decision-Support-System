@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Disaster Dashboard</title>
+
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial;
+            background: #121212;
+            color: white;
+        }
+
+        /* 🔵 SIDEBAR */
+        .sidebar {
+            width: 220px;
+            height: 100vh;
+            position: fixed;
+            background: #1e1e1e;
+            padding-top: 20px;
+        }
+
+        .sidebar h2 {
+            text-align: center;
+            color: #00e5ff;
+        }
+
+        .sidebar a {
+            display: block;
+            padding: 12px;
+            color: white;
+            text-decoration: none;
+        }
+
+        .sidebar a:hover {
+            background: #00e5ff;
+            color: black;
+        }
+
+        /* 🟢 MAIN */
+        .main {
+            margin-left: 220px;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #00e5ff;
+        }
+
+        /* 🔥 KPI */
+        .cards {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+        .card {
+            flex: 1;
+            min-width: 200px;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0px 0px 15px rgba(0,255,255,0.3);
+            transition: 0.4s;
+        }
+
+        .card:hover {
+            transform: translateY(-10px) scale(1.05);
+        }
+
+        .green { background: linear-gradient(45deg,#00c853,#64dd17); }
+        .red { background: linear-gradient(45deg,#d50000,#ff1744); }
+        .blue { background: linear-gradient(45deg,#2962ff,#00b0ff); }
+        .orange { background: linear-gradient(45deg,#ff6d00,#ffab00); }
+
+        /* FILTER */
+        select, button {
+            padding: 10px;
+            margin: 5px;
+            border-radius: 6px;
+            border: none;
+        }
+
+        button {
+            background: #00e5ff;
+            color: black;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #00bcd4;
+        }
+
+        /* CHARTS */
+        .charts {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 20px;
+        }
+
+        img {
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,255,255,0.2);
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .alert {
+            color: red;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .future-box {
+            background: #222;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px auto;
+            width: fit-content;
+            box-shadow: 0px 0px 10px rgba(255,255,255,0.2);
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- 🔵 SIDEBAR -->
+<div class="sidebar">
+    <h2>🌍 Dashboard</h2>
+    <a href="#overview">🏠 Overview</a>
+    <a href="#analytics">📊 Analytics</a>
+    <a href="#prediction">📈 Prediction</a>
+</div>
+
+<!-- 🟢 MAIN -->
+<div class="main">
+
+<!-- 🔹 OVERVIEW -->
+<div id="overview">
+<h1>Disaster Management Dashboard</h1>
+
+{% if alert %}
+<div class="alert">{{alert}}</div>
+{% endif %}
+
+<!-- 🔥 KPI -->
+<div class="cards">
+    <div class="card green">
+        <h3>Total Disasters</h3>
+        <h2>{{total}}</h2>
+    </div>
+
+    <div class="card red">
+        <h3>High Risk</h3>
+        <h2>{{high}}</h2>
+    </div>
+
+    <div class="card blue">
+        <h3>Affected People</h3>
+        <h2>{{affected}}</h2>
+    </div>
+
+    <div class="card orange">
+        <h3>Avg Response</h3>
+        <h2>{{response}} hrs</h2>
+    </div>
+</div>
+</div>
+
+<br>
+
+<!-- 🔽 FILTER -->
+<div class="center">
+<form method="POST">
+    <select name="disaster">
+        <option value="All">All Disaster</option>
+        {% for d in disasters %}
+        <option value="{{d}}">{{d}}</option>
+        {% endfor %}
+    </select>
+
+    <select name="state">
+        <option value="All">All State</option>
+        {% for s in states %}
+        <option value="{{s}}">{{s}}</option>
+        {% endfor %}
+    </select>
+
+    <select name="severity">
+        <option value="All">All Severity</option>
+        {% for sev in severities %}
+        <option value="{{sev}}">{{sev}}</option>
+        {% endfor %}
+    </select>
+
+    <button type="submit">Apply Filter</button>
+</form>
+</div>
+
+<br><br>
+
+<!-- 🔹 ANALYTICS -->
+<div id="analytics">
+<h2 class="center">Analytics</h2>
+
+<div class="charts">
+    <img src="/static/pie.png" width="400">
+    <img src="/static/bar.png" width="400">
+</div>
+
+<br>
+
+<h2 class="center">Disaster Map</h2>
+<div class="center">
+    <img src="/static/map.png" width="700">
+</div>
+</div>
+
+<br><br>
+
+<!-- 🔹 PREDICTION -->
+<div id="prediction">
+<h2 class="center">Prediction</h2>
+
+<!-- 🔥 FUTURE VALUE -->
+<div class="future-box">
+    <h3>📊 Predicted Affected People Next Year</h3>
+    <h1>{{future}}</h1>
+</div>
+
+<div class="center">
+    <img src="/static/output.png" width="900">
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

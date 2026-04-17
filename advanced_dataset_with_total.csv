@@ -1,0 +1,1090 @@
+Date,State,Disaster_Type,Severity_Level,Affected_People,Response_Time_hr,Longitude,Latitude,Total_Disaster
+2024-01-01,Gujarat,Landslide,High,4612,8,70.9177,29.6417,1
+2024-01-02,West Bengal,Cyclone,High,1920,4,81.4423,27.4548,1
+2024-01-02,Gujarat,Tsunami,High,407,7,74.1379,14.4268,1
+2024-01-03,Telangana,Tsunami,Low,3840,7,74.7679,10.545,1
+2024-01-04,Karnataka,Heatwave,Medium,3882,1,82.5896,13.5574,1
+2024-01-04,Andhra Pradesh,Earthquake,Low,4074,2,76.937,14.5378,1
+2024-01-05,Kerala,Heatwave,Low,388,2,70.4197,10.5623,1
+2024-01-05,Rajasthan,Landslide,High,872,11,69.0841,11.1846,1
+2024-01-06,Rajasthan,Earthquake,Low,2138,7,89.4744,9.0957,1
+2024-01-06,Uttar Pradesh,Earthquake,High,2537,9,72.7816,28.7694,1
+2024-01-07,Andhra Pradesh,Drought,Medium,3043,7,72.9182,21.1995,1
+2024-01-08,Telangana,Heatwave,Low,2561,2,69.9011,15.0903,1
+2024-01-09,Uttar Pradesh,Landslide,High,4663,9,70.5297,16.8232,1
+2024-01-09,Punjab,Cyclone,High,2314,11,72.0876,10.5954,1
+2024-01-10,West Bengal,Heatwave,Medium,2366,1,87.4474,15.9577,1
+2024-01-10,Odisha,Tsunami,High,339,7,73.3965,18.0413,1
+2024-01-11,Gujarat,Tsunami,High,2581,4,77.1214,30.0017,1
+2024-01-11,Punjab,Landslide,High,2464,8,87.0103,15.3516,1
+2024-01-12,Rajasthan,Cyclone,High,4444,8,76.3201,13.0867,1
+2024-01-13,Punjab,Fire,Low,1576,10,80.0202,17.8323,1
+2024-01-13,Kerala,Heatwave,Medium,3542,8,91.2895,12.2217,1
+2024-01-14,Andhra Pradesh,Drought,Low,3974,10,77.0778,30.0731,1
+2024-01-15,Rajasthan,Cyclone,Medium,1033,10,68.2787,21.7453,1
+2024-01-16,Punjab,Flood,High,3861,2,77.1857,27.0108,1
+2024-01-16,Andhra Pradesh,Earthquake,Medium,552,6,79.742,17.4309,1
+2024-01-17,Andhra Pradesh,Flood,Medium,3715,9,87.9078,30.3002,1
+2024-01-17,Andhra Pradesh,Landslide,Low,4013,7,91.0797,20.2878,1
+2024-01-18,Kerala,Earthquake,High,2594,9,81.04,24.3113,1
+2024-01-18,Tamil Nadu,Fire,High,693,2,74.158,11.6791,1
+2024-01-19,Maharashtra,Flood,High,772,5,91.7171,24.2553,1
+2024-01-19,Andhra Pradesh,Heatwave,Medium,4384,1,75.4308,13.0382,1
+2024-01-20,Karnataka,Cyclone,Low,1317,3,73.9015,11.5256,1
+2024-01-20,Gujarat,Tsunami,High,715,3,89.3573,10.5542,1
+2024-01-21,Uttar Pradesh,Fire,Medium,4408,8,78.8124,12.4998,1
+2024-01-21,Punjab,Flood,Low,125,7,91.8337,15.644,1
+2024-01-22,Maharashtra,Landslide,Low,3543,1,71.932,22.7312,1
+2024-01-22,Odisha,Fire,Low,1405,2,85.2037,24.5523,1
+2024-01-23,Gujarat,Tsunami,High,1075,11,79.8441,13.5711,1
+2024-01-24,Tamil Nadu,Cyclone,Medium,1623,7,70.9968,24.2966,1
+2024-01-24,Odisha,Drought,Medium,1440,3,78.361,11.2501,1
+2024-01-25,Odisha,Earthquake,Low,4529,4,80.9836,18.113,1
+2024-01-26,Punjab,Fire,Medium,3170,1,68.7095,26.5809,1
+2024-01-26,Andhra Pradesh,Landslide,High,2699,11,88.4891,28.1457,1
+2024-01-27,Telangana,Fire,High,538,5,68.0644,29.4637,1
+2024-01-27,Maharashtra,Flood,Medium,381,10,85.6783,25.2962,1
+2024-01-28,Telangana,Flood,Low,4469,3,89.4295,25.9676,1
+2024-01-29,Karnataka,Tsunami,Low,3545,8,80.2785,22.846,1
+2024-01-29,Andhra Pradesh,Flood,Low,2907,7,74.3022,12.3231,1
+2024-01-30,Gujarat,Landslide,Medium,4365,2,88.8257,17.9635,1
+2024-01-31,Odisha,Fire,Low,2634,11,91.7966,16.37,1
+2024-01-31,Tamil Nadu,Fire,High,4062,1,87.6736,29.7053,1
+2024-02-01,Punjab,Landslide,High,4961,8,75.5855,17.8855,1
+2024-02-01,Rajasthan,Earthquake,Low,229,9,89.0542,11.2598,1
+2024-02-02,Maharashtra,Heatwave,Low,1526,4,77.9613,30.0264,1
+2024-02-03,Karnataka,Drought,Medium,2761,6,78.2681,10.6099,1
+2024-02-04,Rajasthan,Landslide,High,2495,6,75.4699,29.7033,1
+2024-02-05,Kerala,Heatwave,Low,3638,5,89.4439,28.7851,1
+2024-02-06,Andhra Pradesh,Earthquake,Low,2988,8,86.2752,8.8995,1
+2024-02-06,Gujarat,Tsunami,High,1756,6,73.9426,22.3354,1
+2024-02-07,Odisha,Flood,Medium,2052,6,79.0371,24.8823,1
+2024-02-08,Odisha,Fire,Low,2253,2,75.2112,11.9612,1
+2024-02-09,Kerala,Flood,High,110,2,75.2526,26.2054,1
+2024-02-09,Kerala,Tsunami,Low,1513,4,68.2433,22.8074,1
+2024-02-10,Karnataka,Fire,High,3835,10,89.6045,10.5207,1
+2024-02-10,Tamil Nadu,Drought,Medium,373,1,77.8878,16.7369,1
+2024-02-11,Rajasthan,Tsunami,Low,983,1,73.7454,30.8318,1
+2024-02-12,Kerala,Landslide,High,2503,9,91.7453,15.2932,1
+2024-02-12,Andhra Pradesh,Flood,High,2896,4,75.0177,14.3454,1
+2024-02-13,Telangana,Fire,High,3670,3,73.5908,10.9875,1
+2024-02-13,Karnataka,Landslide,High,3757,3,89.8288,25.3586,1
+2024-02-14,Gujarat,Heatwave,Medium,2046,4,78.9895,23.8509,1
+2024-02-15,Maharashtra,Flood,High,3533,6,82.5033,19.0747,1
+2024-02-16,West Bengal,Fire,Low,3651,7,74.2142,28.2327,1
+2024-02-17,Maharashtra,Earthquake,Medium,3030,2,87.8659,28.5717,1
+2024-02-17,Punjab,Heatwave,Medium,3951,9,80.4274,10.1611,1
+2024-02-18,Rajasthan,Landslide,High,543,8,84.0575,25.7931,1
+2024-02-19,Karnataka,Heatwave,Medium,1834,2,75.3773,19.9328,1
+2024-02-20,West Bengal,Fire,Low,4527,3,88.2768,12.8297,1
+2024-02-20,Uttar Pradesh,Drought,High,2245,3,74.8082,26.7692,1
+2024-02-21,Andhra Pradesh,Fire,Low,3715,4,78.0726,13.9463,1
+2024-02-22,Andhra Pradesh,Landslide,High,4246,4,78.1997,24.4366,1
+2024-02-23,Odisha,Landslide,Medium,878,6,76.5026,14.0323,1
+2024-02-24,Andhra Pradesh,Tsunami,High,1610,3,82.9079,28.1569,1
+2024-02-25,West Bengal,Landslide,High,3915,2,89.6788,15.0851,1
+2024-02-26,Karnataka,Earthquake,Low,106,11,82.5174,13.7053,1
+2024-02-27,Odisha,Flood,Medium,1508,8,70.219,8.6261,1
+2024-02-28,Odisha,Drought,Low,1826,7,76.3208,26.9089,1
+2024-02-28,Punjab,Drought,Medium,1547,4,79.2955,27.0965,1
+2024-02-29,Kerala,Cyclone,Medium,3951,11,71.4717,20.5658,1
+2024-02-29,Uttar Pradesh,Flood,Low,679,9,90.2077,21.1523,1
+2024-03-01,Maharashtra,Tsunami,Medium,3729,7,82.2906,28.5696,1
+2024-03-01,Karnataka,Drought,Low,384,6,91.8682,30.3246,1
+2024-03-02,Gujarat,Fire,Low,4168,11,71.866,14.9231,1
+2024-03-02,Punjab,Heatwave,High,1654,8,75.2196,19.4176,1
+2024-03-03,Odisha,Earthquake,High,3610,5,87.324,31.8174,1
+2024-03-04,Odisha,Tsunami,Low,4108,10,71.7773,11.3595,1
+2024-03-05,Maharashtra,Landslide,High,4413,1,69.0662,30.4965,1
+2024-03-05,Odisha,Tsunami,High,4221,4,83.5736,18.1938,1
+2024-03-06,Odisha,Drought,Low,2080,10,86.1244,28.355,1
+2024-03-07,Telangana,Tsunami,Low,918,6,76.4897,28.3386,1
+2024-03-08,Uttar Pradesh,Tsunami,High,1762,10,82.6769,14.0545,1
+2024-03-09,Punjab,Cyclone,High,3819,1,68.9119,25.8448,1
+2024-03-10,Maharashtra,Cyclone,Low,795,11,86.9934,22.9363,1
+2024-03-10,Odisha,Tsunami,Low,1313,1,80.5243,12.2305,1
+2024-03-11,West Bengal,Tsunami,High,1015,9,75.6592,30.7963,1
+2024-03-11,Andhra Pradesh,Landslide,Medium,500,1,78.8853,17.4581,1
+2024-03-12,Punjab,Cyclone,Low,2341,5,83.4841,20.9559,1
+2024-03-12,Punjab,Flood,High,4789,1,82.7968,14.6896,1
+2024-03-13,Tamil Nadu,Cyclone,High,3710,11,76.9954,23.1512,1
+2024-03-14,Odisha,Fire,Low,3688,7,73.2105,24.7647,1
+2024-03-15,West Bengal,Fire,Low,4274,11,76.8728,17.0498,1
+2024-03-15,Andhra Pradesh,Flood,Medium,3553,7,68.7227,25.343,1
+2024-03-16,Karnataka,Heatwave,Medium,1427,7,85.5772,17.5264,1
+2024-03-17,Rajasthan,Heatwave,Low,3609,2,70.5506,31.0853,1
+2024-03-17,Telangana,Earthquake,High,4288,6,82.4183,24.0408,1
+2024-03-18,Odisha,Earthquake,High,134,6,90.1861,24.488,1
+2024-03-19,Punjab,Cyclone,Medium,1067,1,73.1555,23.9539,1
+2024-03-20,Uttar Pradesh,Landslide,Medium,2509,7,68.6072,31.755,1
+2024-03-21,Tamil Nadu,Drought,Medium,1251,2,78.6546,31.5106,1
+2024-03-21,Punjab,Tsunami,Low,1884,5,88.6341,12.4852,1
+2024-03-22,Rajasthan,Tsunami,High,1487,2,88.1995,10.6654,1
+2024-03-22,Andhra Pradesh,Landslide,Medium,731,11,76.4255,23.3443,1
+2024-03-23,Rajasthan,Landslide,High,3926,4,73.8588,24.6688,1
+2024-03-23,Maharashtra,Landslide,Medium,3523,9,83.5004,9.8302,1
+2024-03-24,Gujarat,Earthquake,Low,1937,3,78.2157,21.6607,1
+2024-03-24,Karnataka,Heatwave,Medium,4363,5,74.1054,28.9477,1
+2024-03-25,Uttar Pradesh,Heatwave,High,1653,9,76.4911,18.0977,1
+2024-03-25,Maharashtra,Tsunami,Medium,1290,3,87.2329,20.0511,1
+2024-03-26,Telangana,Landslide,Medium,2343,10,69.24,18.48,1
+2024-03-26,Maharashtra,Landslide,Low,3566,9,79.0716,12.9709,1
+2024-03-27,Karnataka,Fire,Medium,1562,6,79.55,26.3795,1
+2024-03-27,Uttar Pradesh,Landslide,Medium,1642,1,70.0644,17.9362,1
+2024-03-28,Punjab,Cyclone,High,3018,4,88.193,24.5267,1
+2024-03-29,Punjab,Heatwave,Low,1932,7,86.5774,8.5902,1
+2024-03-30,Rajasthan,Flood,High,4392,7,71.7479,16.7018,1
+2024-03-31,Kerala,Heatwave,High,4559,6,73.3768,23.2762,1
+2024-04-01,Telangana,Earthquake,Medium,319,9,81.8023,13.6009,1
+2024-04-02,West Bengal,Flood,High,794,4,83.1798,28.1498,1
+2024-04-03,Andhra Pradesh,Cyclone,Low,762,11,72.4164,30.3174,1
+2024-04-03,Kerala,Earthquake,Low,3488,10,79.9565,19.9806,1
+2024-04-04,Punjab,Flood,Medium,4502,3,78.5046,29.2283,1
+2024-04-05,Gujarat,Cyclone,Medium,1671,1,83.3015,22.9677,1
+2024-04-05,Kerala,Earthquake,High,4148,7,83.9934,25.9183,1
+2024-04-06,Telangana,Fire,Low,1625,5,76.3695,13.4618,1
+2024-04-06,Karnataka,Drought,Medium,1472,3,91.7299,10.9792,1
+2024-04-07,West Bengal,Heatwave,Low,3117,6,87.142,19.6024,1
+2024-04-08,Tamil Nadu,Tsunami,Medium,2037,7,78.3671,24.9331,1
+2024-04-09,Uttar Pradesh,Cyclone,Medium,977,7,69.9308,28.8623,1
+2024-04-10,Karnataka,Drought,Medium,2021,10,74.9943,15.3841,1
+2024-04-11,Rajasthan,Drought,Low,1355,9,70.5516,23.279,1
+2024-04-11,Maharashtra,Flood,High,4906,11,75.5649,19.6683,1
+2024-04-12,Kerala,Heatwave,Low,853,9,71.6325,15.6433,1
+2024-04-12,Punjab,Cyclone,Medium,2997,9,70.3731,21.301,1
+2024-04-13,Punjab,Heatwave,Medium,2904,2,85.3897,16.8324,1
+2024-04-14,Odisha,Landslide,Medium,1603,6,73.7414,15.775,1
+2024-04-15,Telangana,Cyclone,Medium,2445,1,89.2874,26.2925,1
+2024-04-15,Karnataka,Drought,Low,3554,11,85.8035,14.3163,1
+2024-04-16,West Bengal,Tsunami,High,2436,7,84.4755,13.3278,1
+2024-04-17,Rajasthan,Fire,High,4345,8,84.9487,9.5518,1
+2024-04-17,Tamil Nadu,Heatwave,Low,2626,2,78.2989,28.8596,1
+2024-04-18,Uttar Pradesh,Heatwave,High,4690,3,68.8191,8.2975,1
+2024-04-19,Kerala,Flood,Medium,237,2,76.9012,17.8213,1
+2024-04-20,Andhra Pradesh,Cyclone,Low,1841,10,83.3699,14.977,1
+2024-04-21,Andhra Pradesh,Earthquake,Medium,1927,3,74.7667,18.2881,1
+2024-04-22,Rajasthan,Fire,Medium,3462,11,80.0071,23.0302,1
+2024-04-23,Tamil Nadu,Fire,Low,3337,2,78.0614,20.4672,1
+2024-04-23,Gujarat,Landslide,Medium,2675,8,86.5886,27.1506,1
+2024-04-24,Gujarat,Fire,Low,4581,7,87.0681,17.9629,1
+2024-04-25,Telangana,Tsunami,High,3615,2,71.8894,23.1761,1
+2024-04-25,Andhra Pradesh,Heatwave,Low,4522,11,83.163,21.6892,1
+2024-04-26,Telangana,Tsunami,Medium,2446,4,89.3025,17.7389,1
+2024-04-26,Gujarat,Flood,High,2077,7,87.8917,31.2838,1
+2024-04-27,West Bengal,Heatwave,High,4824,2,68.3062,13.1048,1
+2024-04-28,Kerala,Cyclone,High,1133,6,70.0347,18.633,1
+2024-04-29,Rajasthan,Tsunami,Low,4108,3,81.1874,20.8659,1
+2024-04-29,Kerala,Drought,Low,1770,2,76.3111,18.2291,1
+2024-04-30,West Bengal,Earthquake,Low,860,10,85.0116,12.8396,1
+2024-04-30,Gujarat,Heatwave,Low,558,4,81.4248,17.4128,1
+2024-05-01,Telangana,Landslide,Low,1379,8,75.025,30.3214,1
+2024-05-01,Gujarat,Fire,High,3940,7,80.4619,13.0075,1
+2024-05-02,Maharashtra,Flood,Low,873,5,90.5531,28.8124,1
+2024-05-03,Rajasthan,Drought,Low,3860,11,84.9508,11.1215,1
+2024-05-04,Andhra Pradesh,Fire,Low,4539,3,69.6565,28.4792,1
+2024-05-05,Andhra Pradesh,Cyclone,Low,4138,1,80.8022,10.3094,1
+2024-05-05,Kerala,Flood,Medium,4011,1,68.9868,16.725,1
+2024-05-06,Punjab,Earthquake,Medium,1250,10,70.4302,11.2561,1
+2024-05-07,Gujarat,Cyclone,High,309,9,81.8278,27.227,1
+2024-05-08,Telangana,Tsunami,Low,1415,9,91.5927,9.5524,1
+2024-05-09,Tamil Nadu,Cyclone,Medium,579,8,86.4667,12.0326,1
+2024-05-10,Uttar Pradesh,Heatwave,Medium,4192,2,70.2538,31.799,1
+2024-05-11,Andhra Pradesh,Heatwave,High,2915,3,77.0241,19.6925,1
+2024-05-12,Kerala,Drought,High,3457,7,74.3329,18.5282,1
+2024-05-12,Gujarat,Fire,Low,378,7,89.2944,20.6999,1
+2024-05-13,West Bengal,Flood,High,940,5,86.4543,15.4708,1
+2024-05-13,Odisha,Landslide,Low,2649,6,91.3025,29.6018,1
+2024-05-14,Gujarat,Flood,Low,1420,6,82.4273,17.9136,1
+2024-05-15,Maharashtra,Landslide,High,4586,8,89.8696,11.7511,1
+2024-05-15,Andhra Pradesh,Fire,High,3512,5,77.3278,17.7098,1
+2024-05-16,Karnataka,Fire,Medium,3273,7,89.8305,23.0232,1
+2024-05-17,Uttar Pradesh,Cyclone,High,3505,11,85.2974,30.9933,1
+2024-05-17,Punjab,Tsunami,Low,255,1,73.1548,12.4515,1
+2024-05-18,Odisha,Cyclone,Medium,1872,4,91.6086,11.9324,1
+2024-05-18,Odisha,Drought,High,338,2,74.8074,25.8255,1
+2024-05-19,Odisha,Earthquake,Medium,949,1,87.192,25.9615,1
+2024-05-20,Maharashtra,Earthquake,High,146,6,82.1282,12.5577,1
+2024-05-20,Tamil Nadu,Landslide,Low,4831,3,82.5394,28.4168,1
+2024-05-21,Andhra Pradesh,Fire,Low,2263,6,85.8677,10.0358,1
+2024-05-21,Kerala,Cyclone,Medium,1395,7,69.4643,19.3972,1
+2024-05-22,West Bengal,Tsunami,High,2463,2,86.9399,16.1839,1
+2024-05-22,Karnataka,Fire,High,4762,7,76.8158,22.3499,1
+2024-05-23,Odisha,Fire,Medium,2020,4,77.641,21.2228,1
+2024-05-24,Tamil Nadu,Fire,Medium,3431,9,85.0192,24.1374,1
+2024-05-24,Karnataka,Tsunami,Medium,128,3,74.0991,16.9378,1
+2024-05-25,Uttar Pradesh,Landslide,Low,254,10,85.8077,20.1622,1
+2024-05-26,Andhra Pradesh,Earthquake,Medium,3094,3,85.0749,25.6693,1
+2024-05-26,Telangana,Tsunami,High,1557,11,78.2304,10.588,1
+2024-05-27,Gujarat,Drought,High,1355,3,72.0993,18.2135,1
+2024-05-27,Punjab,Drought,Low,2190,10,70.6646,28.1949,1
+2024-05-28,Uttar Pradesh,Landslide,High,4961,3,89.271,17.5286,1
+2024-05-29,Odisha,Heatwave,High,512,8,68.1008,16.8917,1
+2024-05-30,Andhra Pradesh,Cyclone,High,3841,3,76.7597,10.0195,1
+2024-05-31,Odisha,Tsunami,Low,3269,8,71.9064,15.7933,1
+2024-05-31,Karnataka,Drought,High,4050,7,70.3108,27.1745,1
+2024-06-01,Andhra Pradesh,Earthquake,Medium,606,5,87.3085,11.4866,1
+2024-06-02,Andhra Pradesh,Fire,Low,1913,7,70.8491,8.3923,1
+2024-06-03,Karnataka,Fire,Low,2860,6,88.5847,15.2632,1
+2024-06-03,Kerala,Tsunami,High,122,6,80.9587,24.0462,1
+2024-06-04,Maharashtra,Tsunami,Medium,1759,3,90.7329,14.1636,1
+2024-06-04,Tamil Nadu,Heatwave,Low,3774,4,69.2593,17.7984,1
+2024-06-05,West Bengal,Tsunami,Medium,3710,9,90.7797,10.5174,1
+2024-06-06,Odisha,Flood,High,2709,2,68.4046,12.1991,1
+2024-06-06,Gujarat,Fire,High,473,4,86.865,21.1275,1
+2024-06-07,Karnataka,Flood,Low,2408,8,75.1172,23.7221,1
+2024-06-08,Punjab,Earthquake,Medium,3250,11,85.261,13.407,1
+2024-06-08,Uttar Pradesh,Fire,Low,2419,1,82.8743,30.7181,1
+2024-06-09,Telangana,Fire,High,3978,4,68.1336,27.0474,1
+2024-06-09,Punjab,Earthquake,Low,2973,9,87.8855,22.9419,1
+2024-06-10,Maharashtra,Tsunami,Medium,2814,4,68.73,8.9429,1
+2024-06-11,Odisha,Drought,High,4003,6,77.7507,17.5734,1
+2024-06-12,Uttar Pradesh,Fire,Low,2547,8,69.8344,10.4078,1
+2024-06-13,Punjab,Earthquake,Medium,281,9,71.7131,18.9137,1
+2024-06-13,Telangana,Cyclone,High,3987,4,84.144,18.5368,1
+2024-06-14,Odisha,Landslide,High,3963,11,85.1111,19.9952,1
+2024-06-14,Telangana,Tsunami,High,2343,1,69.7168,27.3039,1
+2024-06-15,Telangana,Drought,Low,2223,2,79.8115,17.633,1
+2024-06-15,Karnataka,Earthquake,High,3924,3,86.6604,17.1548,1
+2024-06-16,Karnataka,Flood,Low,4738,5,73.0758,8.1775,1
+2024-06-16,Maharashtra,Cyclone,High,2235,5,75.4971,11.5378,1
+2024-06-17,West Bengal,Landslide,Medium,206,2,70.4267,14.4216,1
+2024-06-17,Andhra Pradesh,Heatwave,Low,3299,11,78.7653,25.9579,1
+2024-06-18,Kerala,Fire,Medium,3658,6,69.5916,22.4177,1
+2024-06-19,Maharashtra,Earthquake,Low,3490,9,85.3571,27.2358,1
+2024-06-20,Maharashtra,Earthquake,High,311,5,75.7203,29.0086,1
+2024-06-20,Karnataka,Flood,Low,1874,5,90.8371,16.052,1
+2024-06-21,Kerala,Tsunami,Medium,3026,1,86.0917,19.1976,1
+2024-06-22,Uttar Pradesh,Tsunami,Low,447,7,73.1444,10.4719,1
+2024-06-22,Punjab,Flood,Medium,1239,3,79.8237,30.7061,1
+2024-06-23,Telangana,Fire,High,1800,3,71.4303,15.6442,1
+2024-06-24,Uttar Pradesh,Cyclone,Low,4105,10,70.6405,20.2698,1
+2024-06-24,Punjab,Landslide,High,2018,7,74.0247,13.6332,1
+2024-06-25,Telangana,Heatwave,Medium,582,3,78.2271,29.0931,1
+2024-06-26,Punjab,Drought,Medium,3842,2,77.1068,14.8989,1
+2024-06-27,Tamil Nadu,Flood,Medium,3975,11,85.9018,30.4601,1
+2024-06-28,West Bengal,Flood,High,2599,1,75.8527,16.9649,1
+2024-06-29,Maharashtra,Earthquake,Low,1851,9,68.4507,30.2669,1
+2024-06-30,Rajasthan,Tsunami,High,1900,2,83.4968,30.4418,1
+2024-06-30,Odisha,Drought,Low,1367,1,88.1934,11.7617,1
+2024-07-01,Odisha,Cyclone,Medium,2936,1,86.8108,19.7837,1
+2024-07-01,Maharashtra,Earthquake,Low,3046,1,69.8737,20.121,1
+2024-07-02,Gujarat,Landslide,High,2475,10,89.2913,15.6443,1
+2024-07-03,West Bengal,Earthquake,Low,3198,11,78.0217,14.254,1
+2024-07-04,Tamil Nadu,Fire,Low,2829,1,73.4256,25.8405,1
+2024-07-05,Uttar Pradesh,Landslide,High,833,2,89.1391,19.0059,1
+2024-07-06,West Bengal,Flood,High,1314,7,73.1955,28.8801,1
+2024-07-06,Kerala,Landslide,Medium,3848,10,89.1097,13.0584,1
+2024-07-07,Rajasthan,Landslide,High,673,5,78.4691,15.3045,1
+2024-07-08,Kerala,Flood,Low,3623,7,77.3076,13.5447,1
+2024-07-08,Gujarat,Heatwave,Medium,893,9,81.2678,11.934,1
+2024-07-09,Andhra Pradesh,Heatwave,High,4433,6,76.7045,25.7137,1
+2024-07-09,Rajasthan,Landslide,Medium,1052,1,76.1351,8.6372,1
+2024-07-10,Gujarat,Flood,Low,4980,3,77.18,8.0266,1
+2024-07-11,Odisha,Flood,High,4758,3,86.143,8.4476,1
+2024-07-11,Andhra Pradesh,Earthquake,Low,562,5,84.0753,25.7135,1
+2024-07-12,Kerala,Flood,Low,3226,3,83.8052,20.5502,1
+2024-07-13,West Bengal,Flood,Low,1438,9,76.3898,26.8527,1
+2024-07-13,Telangana,Flood,Low,4340,10,72.5143,21.4667,1
+2024-07-14,Tamil Nadu,Fire,Low,3000,2,72.2195,24.9832,1
+2024-07-14,Odisha,Fire,Low,2844,7,90.4385,15.4411,1
+2024-07-15,Karnataka,Fire,Low,365,11,78.6245,19.6617,1
+2024-07-15,Kerala,Tsunami,High,907,4,83.2989,28.4345,1
+2024-07-16,West Bengal,Landslide,Medium,3142,3,73.7909,18.7478,1
+2024-07-16,Kerala,Drought,High,3814,8,75.751,21.6877,1
+2024-07-17,Kerala,Flood,Medium,2560,9,71.0297,29.8729,1
+2024-07-18,Gujarat,Tsunami,Low,3452,10,78.0198,11.7538,1
+2024-07-19,Uttar Pradesh,Heatwave,Medium,798,8,72.4531,12.548,1
+2024-07-19,West Bengal,Tsunami,Low,4029,4,72.4803,17.459,1
+2024-07-20,Maharashtra,Tsunami,Medium,256,3,86.4188,24.2064,1
+2024-07-21,Maharashtra,Earthquake,Low,4684,7,84.5457,28.1276,1
+2024-07-22,Andhra Pradesh,Drought,Medium,181,2,79.8479,12.6638,1
+2024-07-22,Gujarat,Fire,High,846,9,71.7065,11.8469,1
+2024-07-23,Odisha,Fire,High,1808,2,76.7481,14.7309,1
+2024-07-24,Maharashtra,Heatwave,High,2989,8,91.8906,19.499,1
+2024-07-24,Andhra Pradesh,Cyclone,High,3731,2,79.4363,16.1173,1
+2024-07-25,Uttar Pradesh,Landslide,High,3818,2,90.1787,25.2558,1
+2024-07-25,Rajasthan,Earthquake,High,515,8,68.9771,18.0022,1
+2024-07-26,Maharashtra,Tsunami,Medium,1920,1,91.0094,14.637,1
+2024-07-26,Punjab,Flood,Low,4026,1,79.133,9.6929,1
+2024-07-27,West Bengal,Cyclone,Low,2884,8,82.6564,18.0838,1
+2024-07-28,Uttar Pradesh,Earthquake,Low,3528,6,85.5879,26.8806,1
+2024-07-28,Rajasthan,Fire,High,4334,2,73.4257,30.799,1
+2024-07-29,Odisha,Landslide,Low,134,9,88.9605,24.8799,1
+2024-07-30,Andhra Pradesh,Cyclone,Low,2666,1,90.2389,14.6044,1
+2024-07-30,Telangana,Earthquake,Low,3335,3,73.0261,12.8964,1
+2024-07-31,Kerala,Fire,Medium,2164,3,85.7283,9.7152,1
+2024-08-01,Karnataka,Drought,Low,1552,7,84.7355,17.3423,1
+2024-08-01,Tamil Nadu,Earthquake,Low,3488,9,70.8216,19.5413,1
+2024-08-02,Andhra Pradesh,Tsunami,Low,3684,3,70.0482,23.0849,1
+2024-08-03,Gujarat,Flood,Low,653,1,89.5438,22.9474,1
+2024-08-04,Uttar Pradesh,Drought,Medium,2489,4,84.5121,24.8522,1
+2024-08-04,Kerala,Tsunami,Medium,2275,2,90.8421,9.2843,1
+2024-08-05,Gujarat,Landslide,High,3480,9,77.6807,24.7995,1
+2024-08-05,Gujarat,Landslide,High,487,8,90.2568,9.9797,1
+2024-08-06,Rajasthan,Drought,Low,3282,4,88.9945,24.7565,1
+2024-08-07,Andhra Pradesh,Drought,Medium,2961,4,71.6971,12.0116,1
+2024-08-08,Rajasthan,Cyclone,High,3596,9,87.7775,21.0789,1
+2024-08-09,Andhra Pradesh,Tsunami,Medium,3081,5,90.9503,27.8199,1
+2024-08-09,Maharashtra,Tsunami,High,1048,10,70.4812,16.7338,1
+2024-08-10,Telangana,Drought,Low,3320,8,85.862,17.2317,1
+2024-08-10,Karnataka,Landslide,Medium,319,2,91.6259,29.6718,1
+2024-08-11,Telangana,Flood,High,482,1,82.1629,12.0381,1
+2024-08-11,Karnataka,Landslide,Medium,2353,4,68.236,27.9538,1
+2024-08-12,Gujarat,Drought,Medium,1149,9,81.0271,28.2449,1
+2024-08-13,Punjab,Earthquake,Medium,4994,1,74.3804,31.506,1
+2024-08-13,West Bengal,Heatwave,High,2402,10,84.1762,11.69,1
+2024-08-14,Telangana,Heatwave,Medium,2707,4,73.3568,10.8457,1
+2024-08-14,Punjab,Landslide,Medium,2618,4,85.421,13.4099,1
+2024-08-15,Rajasthan,Fire,Low,858,5,71.2078,18.6139,1
+2024-08-15,Rajasthan,Fire,High,3077,5,83.0956,8.3167,1
+2024-08-16,Uttar Pradesh,Drought,Medium,2044,5,80.5531,21.61,1
+2024-08-17,Punjab,Cyclone,High,2382,11,74.9372,24.0026,1
+2024-08-17,Gujarat,Flood,Medium,4935,9,86.3972,12.5808,1
+2024-08-18,Punjab,Cyclone,Low,4761,4,71.5341,27.4876,1
+2024-08-19,Odisha,Flood,Low,619,4,82.1613,14.912,1
+2024-08-20,Uttar Pradesh,Earthquake,Medium,605,8,72.5648,8.1004,1
+2024-08-21,Andhra Pradesh,Flood,High,1008,1,90.3151,25.2173,1
+2024-08-22,Tamil Nadu,Fire,Low,4923,6,76.6825,20.4332,1
+2024-08-22,Punjab,Drought,High,3313,1,90.4092,15.9969,1
+2024-08-23,Telangana,Flood,High,2367,4,79.3324,19.2741,1
+2024-08-23,West Bengal,Landslide,Low,4963,7,68.5146,21.5972,1
+2024-08-24,Maharashtra,Drought,Medium,2221,3,83.7866,11.343,1
+2024-08-25,Telangana,Drought,High,3205,3,87.8617,23.6237,1
+2024-08-26,Rajasthan,Flood,Medium,2562,10,87.007,11.2007,1
+2024-08-26,Odisha,Flood,Medium,114,1,68.4539,8.464,1
+2024-08-27,Rajasthan,Flood,High,945,3,71.9029,17.3709,1
+2024-08-27,Tamil Nadu,Tsunami,Low,754,5,90.0144,23.5716,1
+2024-08-28,Uttar Pradesh,Drought,Medium,3497,5,83.7556,9.0468,1
+2024-08-28,Punjab,Earthquake,Low,4048,7,68.5277,12.8909,1
+2024-08-29,Tamil Nadu,Earthquake,Medium,4048,3,74.5453,11.2734,1
+2024-08-30,Uttar Pradesh,Fire,Medium,999,9,68.6227,18.7408,1
+2024-08-31,Karnataka,Heatwave,Medium,1434,4,74.0927,24.0146,1
+2024-08-31,Gujarat,Fire,Medium,4339,3,86.032,31.4769,1
+2024-09-01,Uttar Pradesh,Fire,Low,2343,6,74.9183,30.5908,1
+2024-09-01,Gujarat,Drought,High,125,8,74.0289,28.5233,1
+2024-09-02,Odisha,Cyclone,Low,1496,9,77.1038,13.8618,1
+2024-09-03,Rajasthan,Cyclone,Medium,3429,5,90.0487,25.523,1
+2024-09-04,Tamil Nadu,Landslide,Medium,1781,6,83.0623,22.1594,1
+2024-09-04,West Bengal,Fire,Low,4983,5,89.2724,15.4347,1
+2024-09-05,Telangana,Flood,Medium,4388,5,77.1637,20.9947,1
+2024-09-06,Andhra Pradesh,Drought,Medium,2694,2,77.6174,16.4962,1
+2024-09-06,West Bengal,Cyclone,High,1713,4,69.3534,13.2137,1
+2024-09-07,Tamil Nadu,Fire,Low,4242,8,85.3384,8.242,1
+2024-09-07,Kerala,Fire,High,3878,5,78.0678,30.1244,1
+2024-09-08,Uttar Pradesh,Earthquake,High,3774,9,91.088,17.1018,1
+2024-09-09,Gujarat,Flood,Low,4189,5,77.8145,31.5314,1
+2024-09-10,Telangana,Earthquake,Medium,3698,1,74.7393,28.3147,1
+2024-09-11,Tamil Nadu,Cyclone,Low,1404,11,75.1781,19.0433,1
+2024-09-12,Telangana,Fire,Medium,2218,2,68.6766,9.1587,1
+2024-09-12,Kerala,Earthquake,Medium,4085,11,69.4794,13.552,1
+2024-09-13,Maharashtra,Cyclone,High,213,6,71.5378,25.8257,1
+2024-09-14,Tamil Nadu,Earthquake,High,3261,5,91.5794,21.1166,1
+2024-09-14,Kerala,Heatwave,Low,4773,11,72.3015,25.7437,1
+2024-09-15,Tamil Nadu,Flood,Medium,354,6,68.0567,20.171,1
+2024-09-15,Maharashtra,Flood,Low,1447,11,87.5753,28.3149,1
+2024-09-16,Andhra Pradesh,Landslide,Low,3762,9,71.2163,19.1371,1
+2024-09-17,Uttar Pradesh,Cyclone,Medium,3007,1,81.8466,15.7331,1
+2024-09-17,Odisha,Drought,Medium,4602,4,88.1859,14.8306,1
+2024-09-18,Odisha,Landslide,Medium,4840,5,91.9647,24.7728,1
+2024-09-18,Odisha,Landslide,Low,2249,2,74.4064,12.9259,1
+2024-09-19,Gujarat,Cyclone,High,2114,2,78.022,16.408,1
+2024-09-20,Gujarat,Landslide,High,1406,3,76.604,12.5717,1
+2024-09-21,Karnataka,Fire,Medium,2706,11,71.4796,9.9816,1
+2024-09-22,Odisha,Heatwave,High,1712,4,69.9317,23.4182,1
+2024-09-22,Uttar Pradesh,Flood,Medium,983,7,74.4584,18.7622,1
+2024-09-23,Uttar Pradesh,Drought,High,1986,2,87.9025,28.7468,1
+2024-09-24,Punjab,Heatwave,Medium,3634,10,75.0204,12.0453,1
+2024-09-24,Punjab,Flood,Medium,4925,10,90.0638,23.2452,1
+2024-09-25,West Bengal,Earthquake,Low,1384,5,76.4336,31.844,1
+2024-09-25,Karnataka,Landslide,High,4464,2,77.143,21.114,1
+2024-09-26,Rajasthan,Drought,High,2880,4,89.7197,21.666,1
+2024-09-26,Odisha,Heatwave,High,571,2,74.6009,13.406,1
+2024-09-27,Maharashtra,Flood,Medium,706,7,71.0531,22.8737,1
+2024-09-27,Maharashtra,Heatwave,Medium,3817,7,91.5555,31.6733,1
+2024-09-28,Telangana,Landslide,Low,4131,1,75.9282,25.5325,1
+2024-09-29,Maharashtra,Cyclone,Low,1916,5,75.5392,30.6,1
+2024-09-30,Tamil Nadu,Drought,Medium,1355,4,70.4578,21.1552,1
+2024-09-30,Punjab,Fire,Low,3174,2,84.3878,25.1252,1
+2024-10-01,Telangana,Tsunami,Low,2268,10,74.8164,30.4361,1
+2024-10-01,West Bengal,Landslide,High,2706,3,77.0397,26.809,1
+2024-10-02,Andhra Pradesh,Drought,High,2607,7,75.9593,19.996,1
+2024-10-02,Rajasthan,Cyclone,Low,1926,5,69.0874,18.5775,1
+2024-10-03,Tamil Nadu,Cyclone,High,3534,9,77.6691,23.9185,1
+2024-10-04,Odisha,Fire,Low,128,7,73.3508,9.4897,1
+2024-10-04,Punjab,Landslide,Low,256,11,89.6904,17.858,1
+2024-10-05,Andhra Pradesh,Heatwave,Medium,4049,6,78.3714,18.8234,1
+2024-10-06,Punjab,Drought,Medium,4231,7,72.793,18.852,1
+2024-10-07,Punjab,Earthquake,Low,3922,6,82.5726,26.4168,1
+2024-10-07,West Bengal,Tsunami,Low,389,5,90.9242,13.6429,1
+2024-10-08,Karnataka,Flood,High,1802,10,77.2172,15.3045,1
+2024-10-09,Maharashtra,Cyclone,Medium,4019,8,68.1424,13.1356,1
+2024-10-10,Andhra Pradesh,Flood,Low,3041,1,84.1446,30.8571,1
+2024-10-10,Maharashtra,Drought,Medium,694,8,72.2239,14.3495,1
+2024-10-11,Telangana,Fire,Medium,3836,7,68.8949,21.9365,1
+2024-10-12,Tamil Nadu,Landslide,Low,1902,1,68.9359,16.385,1
+2024-10-13,Maharashtra,Landslide,Medium,673,5,68.0905,18.3967,1
+2024-10-13,Kerala,Drought,Medium,1452,4,89.2096,28.7323,1
+2024-10-14,Gujarat,Heatwave,Medium,780,11,70.3379,9.0623,1
+2024-10-14,Odisha,Fire,Medium,2652,11,82.0566,10.9548,1
+2024-10-15,Maharashtra,Tsunami,Low,2609,4,79.2018,27.4023,1
+2024-10-16,Maharashtra,Earthquake,High,4900,3,70.8309,11.9562,1
+2024-10-16,Kerala,Earthquake,Low,4893,8,80.4565,10.4307,1
+2024-10-17,Gujarat,Landslide,Low,3894,6,82.3283,11.1423,1
+2024-10-17,West Bengal,Drought,High,1357,9,75.9985,21.1659,1
+2024-10-18,Gujarat,Flood,Medium,1622,9,84.2889,13.6292,1
+2024-10-18,Maharashtra,Tsunami,High,3991,9,78.8506,13.9225,1
+2024-10-19,Telangana,Earthquake,High,3085,7,80.1324,8.9161,1
+2024-10-20,West Bengal,Heatwave,Medium,3670,5,86.9261,25.1078,1
+2024-10-20,Uttar Pradesh,Fire,High,523,8,87.4571,21.7208,1
+2024-10-21,Punjab,Fire,Medium,4572,6,89.2974,23.6354,1
+2024-10-21,Gujarat,Flood,Low,987,7,72.8184,26.6381,1
+2024-10-22,Kerala,Cyclone,Low,3133,11,87.304,19.1305,1
+2024-10-22,Punjab,Landslide,Low,4824,1,88.1339,20.1181,1
+2024-10-23,Andhra Pradesh,Landslide,Low,3074,4,84.8134,26.4321,1
+2024-10-24,Uttar Pradesh,Heatwave,High,490,5,83.1346,14.7097,1
+2024-10-24,Telangana,Earthquake,High,542,1,81.2072,27.5407,1
+2024-10-25,Gujarat,Drought,Medium,3327,8,91.0165,24.5063,1
+2024-10-25,West Bengal,Flood,Medium,3592,3,72.7325,26.1651,1
+2024-10-26,West Bengal,Drought,Medium,3026,1,90.7005,27.5026,1
+2024-10-26,Kerala,Landslide,Medium,3242,4,77.5052,19.0967,1
+2024-10-27,Odisha,Heatwave,Low,800,3,79.3196,17.1476,1
+2024-10-27,Telangana,Landslide,Low,287,11,84.7375,12.2207,1
+2024-10-28,Maharashtra,Fire,High,2044,11,89.2442,25.9221,1
+2024-10-28,Rajasthan,Drought,High,4170,7,91.4535,13.483,1
+2024-10-29,Telangana,Landslide,High,3716,9,79.1732,24.7578,1
+2024-10-29,Gujarat,Landslide,High,1765,1,76.8204,8.342,1
+2024-10-30,West Bengal,Fire,Low,4408,4,71.7779,19.3028,1
+2024-10-31,Karnataka,Earthquake,Low,2968,1,81.2561,14.6015,1
+2024-11-01,Uttar Pradesh,Cyclone,High,1240,8,83.1464,12.9565,1
+2024-11-02,Uttar Pradesh,Fire,High,678,2,82.2444,26.197,1
+2024-11-03,West Bengal,Tsunami,Low,3611,8,81.5772,25.505,1
+2024-11-04,Tamil Nadu,Cyclone,Low,2873,4,82.0108,27.8233,1
+2024-11-05,Telangana,Flood,Medium,3235,3,82.1161,17.5618,1
+2024-11-05,Telangana,Heatwave,Low,4477,2,83.6661,22.0034,1
+2024-11-06,Andhra Pradesh,Heatwave,High,1733,1,91.1513,30.7237,1
+2024-11-07,Tamil Nadu,Flood,High,1165,2,73.7694,19.3415,1
+2024-11-08,West Bengal,Landslide,High,4561,2,85.7896,24.8184,1
+2024-11-09,Punjab,Heatwave,High,2503,9,77.675,10.3307,1
+2024-11-09,Karnataka,Heatwave,Low,4414,3,76.12,12.5774,1
+2024-11-10,Kerala,Landslide,High,938,4,77.4618,26.2763,1
+2024-11-11,Karnataka,Earthquake,Medium,4302,10,86.9033,29.3964,1
+2024-11-12,Kerala,Cyclone,High,1926,4,73.3261,17.3902,1
+2024-11-12,Kerala,Tsunami,Medium,3199,10,80.8775,31.4804,1
+2024-11-13,Telangana,Cyclone,Low,3867,4,73.4745,21.0391,1
+2024-11-14,West Bengal,Tsunami,Low,365,10,81.9109,24.9407,1
+2024-11-15,Andhra Pradesh,Earthquake,Medium,1610,3,88.6745,9.1379,1
+2024-11-15,Maharashtra,Landslide,Medium,1100,7,73.1445,13.8582,1
+2024-11-16,Punjab,Earthquake,High,2499,8,74.6715,21.2164,1
+2024-11-17,Uttar Pradesh,Cyclone,Low,926,6,73.7208,20.8486,1
+2024-11-18,Uttar Pradesh,Cyclone,High,3551,11,76.9465,28.0364,1
+2024-11-18,Andhra Pradesh,Drought,High,993,7,86.5132,28.3495,1
+2024-11-19,Andhra Pradesh,Landslide,Low,4744,3,68.9417,26.2173,1
+2024-11-19,Gujarat,Cyclone,Low,3272,1,70.0639,10.7455,1
+2024-11-20,Andhra Pradesh,Heatwave,Medium,4433,10,75.9807,26.964,1
+2024-11-20,Andhra Pradesh,Earthquake,High,3833,9,73.8345,27.6869,1
+2024-11-21,Tamil Nadu,Landslide,High,901,10,85.6636,16.0208,1
+2024-11-22,Telangana,Earthquake,Medium,1600,11,86.3885,31.5021,1
+2024-11-23,Maharashtra,Fire,Low,4994,4,69.0936,17.21,1
+2024-11-24,Tamil Nadu,Earthquake,Low,4193,4,68.3086,25.6349,1
+2024-11-24,Gujarat,Cyclone,High,3317,9,78.4262,31.8916,1
+2024-11-25,Tamil Nadu,Landslide,Medium,1852,8,81.5749,12.1714,1
+2024-11-25,Uttar Pradesh,Heatwave,Low,4827,6,86.6147,21.7319,1
+2024-11-26,West Bengal,Drought,Low,1531,2,76.0016,12.3413,1
+2024-11-26,Punjab,Earthquake,Low,4247,8,71.4285,30.9291,1
+2024-11-27,Karnataka,Tsunami,High,3010,5,76.1739,22.2085,1
+2024-11-27,Telangana,Cyclone,Low,1384,11,85.8689,8.8945,1
+2024-11-28,Karnataka,Earthquake,Medium,1135,7,78.3887,14.5866,1
+2024-11-29,Telangana,Flood,Low,3620,11,72.1426,28.2861,1
+2024-11-29,Karnataka,Fire,Medium,1620,6,69.0609,14.0433,1
+2024-11-30,Karnataka,Tsunami,High,2341,2,69.1518,25.1338,1
+2024-11-30,Punjab,Earthquake,Medium,4446,8,78.6319,23.6585,1
+2024-12-01,Tamil Nadu,Fire,Medium,2662,9,79.5591,26.7005,1
+2024-12-02,Maharashtra,Heatwave,High,1351,8,87.188,26.5852,1
+2024-12-02,Telangana,Tsunami,Low,1977,8,83.378,27.689,1
+2024-12-03,Uttar Pradesh,Drought,Medium,238,10,80.0632,21.1002,1
+2024-12-03,Andhra Pradesh,Heatwave,Medium,2324,9,91.9322,18.4402,1
+2024-12-04,Telangana,Heatwave,High,4571,1,88.3148,27.6818,1
+2024-12-05,West Bengal,Tsunami,High,787,8,81.9319,22.732,1
+2024-12-06,Odisha,Flood,Medium,274,7,89.6291,15.8663,1
+2024-12-06,Punjab,Heatwave,Medium,269,3,77.4152,28.1051,1
+2024-12-07,Odisha,Flood,High,1709,8,86.4049,12.3109,1
+2024-12-08,Karnataka,Landslide,Medium,943,6,87.429,10.8613,1
+2024-12-09,Kerala,Landslide,High,3215,9,91.3482,10.4238,1
+2024-12-09,Andhra Pradesh,Heatwave,Low,146,7,85.1623,20.3975,1
+2024-12-10,Gujarat,Drought,Low,2496,1,87.1914,30.3803,1
+2024-12-10,Kerala,Cyclone,High,155,6,90.7891,14.3704,1
+2024-12-11,Telangana,Flood,Medium,3679,6,77.985,17.1348,1
+2024-12-11,Kerala,Fire,Medium,272,2,68.153,10.5716,1
+2024-12-12,Punjab,Cyclone,High,676,2,69.055,14.0553,1
+2024-12-13,Tamil Nadu,Earthquake,Low,964,9,69.3487,17.8632,1
+2024-12-13,Punjab,Cyclone,Low,2811,2,78.5081,29.6306,1
+2024-12-14,West Bengal,Cyclone,High,3409,1,90.62,13.9367,1
+2024-12-15,Andhra Pradesh,Heatwave,Low,3769,5,71.3029,17.5019,1
+2024-12-16,West Bengal,Earthquake,High,256,8,81.3955,24.5271,1
+2024-12-16,Punjab,Tsunami,High,2239,1,75.0131,19.9873,1
+2024-12-17,Punjab,Drought,Low,2978,8,73.3142,9.6464,1
+2024-12-17,Uttar Pradesh,Earthquake,Low,1962,2,87.9656,29.9701,1
+2024-12-18,Karnataka,Tsunami,Medium,2464,2,81.9619,15.8149,1
+2024-12-18,Uttar Pradesh,Fire,Medium,2251,9,91.1872,19.9412,1
+2024-12-19,West Bengal,Drought,Low,1515,9,85.9445,21.6361,1
+2024-12-19,Gujarat,Earthquake,Medium,3989,6,71.2103,12.1241,1
+2024-12-20,West Bengal,Flood,High,3281,1,73.3121,18.7135,1
+2024-12-20,Punjab,Fire,Low,488,8,72.7257,25.357,1
+2024-12-21,Maharashtra,Fire,Low,4138,4,75.1913,22.6868,1
+2024-12-22,Rajasthan,Drought,Low,1036,7,74.0729,10.0697,1
+2024-12-22,West Bengal,Flood,High,2862,9,84.1067,18.0988,1
+2024-12-23,Maharashtra,Landslide,Low,4930,4,69.1569,24.839,1
+2024-12-24,Gujarat,Heatwave,High,1840,2,91.7193,16.7359,1
+2024-12-25,Telangana,Flood,Medium,4517,7,81.0583,17.7976,1
+2024-12-25,Telangana,Flood,Low,698,6,72.6152,27.6053,1
+2024-12-26,Odisha,Drought,Low,1605,9,85.964,27.8457,1
+2024-12-27,Gujarat,Tsunami,Low,709,9,91.5683,14.742,1
+2024-12-27,Karnataka,Heatwave,Medium,2289,5,70.9356,8.2449,1
+2024-12-28,Andhra Pradesh,Cyclone,High,4529,1,84.6235,28.7392,1
+2024-12-29,Andhra Pradesh,Heatwave,High,4295,6,82.351,19.4551,1
+2024-12-29,Maharashtra,Tsunami,Medium,2220,4,84.381,15.06,1
+2024-12-30,Tamil Nadu,Flood,Medium,4439,11,76.0792,26.9226,1
+2024-12-30,Andhra Pradesh,Cyclone,High,594,7,91.6362,23.6668,1
+2024-12-31,Kerala,Landslide,Medium,113,5,77.8374,31.985,1
+2025-01-01,Uttar Pradesh,Tsunami,Medium,4134,4,81.467,12.8855,1
+2025-01-02,Tamil Nadu,Tsunami,Low,1451,10,87.3825,17.7496,1
+2025-01-03,Gujarat,Landslide,High,466,11,90.5344,28.3074,1
+2025-01-03,Karnataka,Cyclone,Low,4232,10,89.5345,20.445,1
+2025-01-04,Maharashtra,Tsunami,Low,3802,2,68.543,17.6087,1
+2025-01-04,Telangana,Landslide,Medium,4351,11,76.2649,28.8437,1
+2025-01-05,Odisha,Heatwave,High,2706,2,68.4301,25.6004,1
+2025-01-06,Odisha,Cyclone,Low,2219,1,77.0734,22.7265,1
+2025-01-06,Uttar Pradesh,Tsunami,Low,238,1,78.7126,16.9938,1
+2025-01-07,Maharashtra,Earthquake,High,1180,6,85.2391,18.2029,1
+2025-01-07,Kerala,Flood,Medium,2586,1,91.2877,11.5999,1
+2025-01-08,West Bengal,Earthquake,Medium,1487,11,75.485,31.8139,1
+2025-01-09,Maharashtra,Drought,High,2995,11,86.1529,11.022,1
+2025-01-10,West Bengal,Fire,Low,1599,4,71.1993,31.2339,1
+2025-01-11,Telangana,Tsunami,High,4891,6,89.7596,20.8716,1
+2025-01-11,Andhra Pradesh,Earthquake,Low,4048,6,75.2581,28.7297,1
+2025-01-12,Rajasthan,Drought,Medium,1178,10,81.3478,17.0183,1
+2025-01-12,Tamil Nadu,Fire,Low,2151,11,85.0781,30.474,1
+2025-01-13,Karnataka,Heatwave,High,2636,2,75.9763,29.6441,1
+2025-01-14,Uttar Pradesh,Flood,Low,1465,5,68.0882,13.7663,1
+2025-01-14,Andhra Pradesh,Tsunami,Low,1313,8,86.2937,19.912,1
+2025-01-15,Uttar Pradesh,Flood,Medium,4147,6,89.4096,12.6896,1
+2025-01-15,Odisha,Heatwave,High,1569,8,84.9709,31.8275,1
+2025-01-16,Gujarat,Landslide,Medium,728,3,77.3451,11.418,1
+2025-01-17,Punjab,Flood,High,4261,3,80.1546,10.8268,1
+2025-01-17,Odisha,Heatwave,Low,4584,7,68.0823,30.515,1
+2025-01-18,Rajasthan,Heatwave,High,3200,3,78.4591,27.5193,1
+2025-01-19,Rajasthan,Heatwave,Low,4941,6,80.9305,19.1791,1
+2025-01-19,Punjab,Landslide,Low,4083,6,90.8318,31.7621,1
+2025-01-20,Uttar Pradesh,Tsunami,High,1051,4,76.0286,19.8354,1
+2025-01-21,Gujarat,Flood,High,1053,3,81.9962,18.4221,1
+2025-01-21,Karnataka,Drought,Low,4393,6,89.0186,8.5546,1
+2025-01-22,Telangana,Earthquake,Low,4770,4,85.8352,29.6759,1
+2025-01-23,Uttar Pradesh,Drought,Medium,3771,6,76.8328,17.0656,1
+2025-01-24,Kerala,Heatwave,Low,4738,6,91.5633,17.9291,1
+2025-01-24,Uttar Pradesh,Fire,High,1776,7,90.6385,10.9306,1
+2025-01-25,Andhra Pradesh,Landslide,High,501,2,73.2875,26.5627,1
+2025-01-26,Uttar Pradesh,Tsunami,High,4444,2,78.5205,9.0923,1
+2025-01-26,Odisha,Flood,High,4751,4,84.9517,15.8717,1
+2025-01-27,Rajasthan,Cyclone,Medium,727,10,75.9689,24.1118,1
+2025-01-27,West Bengal,Flood,High,3214,8,83.1171,31.7912,1
+2025-01-28,Kerala,Heatwave,High,4424,11,69.794,10.9987,1
+2025-01-28,Gujarat,Flood,High,823,4,78.5619,26.2075,1
+2025-01-29,Uttar Pradesh,Fire,High,4782,9,72.6073,8.4426,1
+2025-01-30,Andhra Pradesh,Earthquake,Medium,209,5,76.2186,27.4225,1
+2025-01-30,Andhra Pradesh,Tsunami,Low,3353,8,73.943,26.4779,1
+2025-01-31,Punjab,Landslide,Low,2937,7,75.9765,16.8968,1
+2025-02-01,West Bengal,Earthquake,Low,2076,1,85.8449,30.0244,1
+2025-02-02,Rajasthan,Landslide,Low,4909,2,87.3472,17.4718,1
+2025-02-03,Gujarat,Flood,Low,1891,3,81.892,17.0278,1
+2025-02-04,Karnataka,Landslide,Low,4705,10,82.2864,23.5605,1
+2025-02-05,Punjab,Landslide,High,713,3,69.894,31.5639,1
+2025-02-06,Punjab,Cyclone,Medium,857,6,76.3982,18.6767,1
+2025-02-06,Kerala,Cyclone,High,2529,6,86.711,14.2932,1
+2025-02-07,Kerala,Tsunami,High,453,5,77.9389,25.3788,1
+2025-02-07,Punjab,Earthquake,Medium,1233,5,84.4774,10.2259,1
+2025-02-08,Uttar Pradesh,Flood,Low,1057,7,71.3185,13.9815,1
+2025-02-08,Gujarat,Heatwave,Medium,4226,9,77.3608,28.0763,1
+2025-02-09,Tamil Nadu,Landslide,Medium,2672,7,87.6975,24.6656,1
+2025-02-09,West Bengal,Drought,High,2121,3,74.9306,9.409,1
+2025-02-10,West Bengal,Cyclone,Medium,3670,2,87.6563,26.7411,1
+2025-02-11,West Bengal,Fire,Low,1257,6,89.0296,16.488,1
+2025-02-11,Kerala,Heatwave,Medium,3820,10,83.74,25.1307,1
+2025-02-12,Rajasthan,Cyclone,Low,2031,10,86.3196,16.5314,1
+2025-02-13,Uttar Pradesh,Flood,Low,1340,11,76.1194,22.9614,1
+2025-02-13,West Bengal,Drought,Low,1388,10,87.6425,22.3184,1
+2025-02-14,Tamil Nadu,Heatwave,Low,1165,1,81.3926,17.9454,1
+2025-02-15,Kerala,Earthquake,High,4348,7,82.603,20.9736,1
+2025-02-15,Rajasthan,Fire,Low,1171,11,71.1843,30.4682,1
+2025-02-16,Uttar Pradesh,Drought,Low,2935,3,68.9521,15.6683,1
+2025-02-16,West Bengal,Heatwave,High,4774,2,71.8246,8.1884,1
+2025-02-17,West Bengal,Fire,Medium,786,2,77.2264,12.394,1
+2025-02-18,Telangana,Fire,Medium,3565,9,71.3007,29.6937,1
+2025-02-18,Odisha,Drought,Low,4227,8,87.209,17.5365,1
+2025-02-19,Odisha,Cyclone,Medium,3798,5,84.9108,17.8979,1
+2025-02-19,Uttar Pradesh,Drought,Low,4865,5,70.6577,23.9975,1
+2025-02-20,Tamil Nadu,Flood,High,3528,6,78.9972,17.0065,1
+2025-02-21,Odisha,Cyclone,High,2453,8,75.9798,9.992,1
+2025-02-22,Gujarat,Drought,Medium,3842,4,89.8064,11.4392,1
+2025-02-23,Gujarat,Tsunami,Medium,4107,11,87.2849,30.8264,1
+2025-02-23,Tamil Nadu,Flood,Low,854,4,76.8989,15.3956,1
+2025-02-24,Odisha,Fire,Medium,4276,1,74.8868,23.3384,1
+2025-02-25,Gujarat,Drought,Low,3086,1,74.6523,16.8362,1
+2025-02-25,Uttar Pradesh,Cyclone,Low,2204,10,83.8926,29.2994,1
+2025-02-26,Kerala,Tsunami,High,1810,8,72.3611,23.4232,1
+2025-02-26,Maharashtra,Heatwave,Medium,3638,4,74.318,30.9101,1
+2025-02-27,Tamil Nadu,Fire,Low,2634,10,91.3252,19.2762,1
+2025-02-27,Telangana,Flood,High,627,7,73.9444,14.2137,1
+2025-02-28,Odisha,Landslide,High,4051,4,91.0263,22.0511,1
+2025-02-28,Karnataka,Flood,Medium,1694,2,91.3749,20.9591,1
+2025-03-01,Telangana,Tsunami,Low,1905,1,79.5179,22.2767,1
+2025-03-02,Maharashtra,Fire,Low,3094,4,78.6353,11.6466,1
+2025-03-02,West Bengal,Cyclone,Low,3147,8,83.2284,20.6218,1
+2025-03-03,Punjab,Flood,Low,2498,11,80.9661,22.5159,1
+2025-03-04,Karnataka,Cyclone,High,3951,1,72.6147,15.2306,1
+2025-03-05,Uttar Pradesh,Tsunami,Low,4195,8,78.2207,17.2219,1
+2025-03-06,Punjab,Landslide,High,3014,5,91.1625,16.9286,1
+2025-03-07,Odisha,Earthquake,Low,472,2,73.7358,30.9882,1
+2025-03-07,Punjab,Earthquake,Low,1175,5,73.79,15.9284,1
+2025-03-08,Telangana,Tsunami,Low,3791,1,71.0889,24.1594,1
+2025-03-09,Punjab,Fire,Low,1856,6,68.8947,23.186,1
+2025-03-09,Gujarat,Heatwave,Medium,4821,5,73.175,14.0212,1
+2025-03-10,Gujarat,Heatwave,High,3701,4,74.4126,15.9539,1
+2025-03-11,Maharashtra,Cyclone,High,2823,1,82.9567,22.0851,1
+2025-03-11,Uttar Pradesh,Cyclone,High,1124,2,76.4023,16.9867,1
+2025-03-12,Uttar Pradesh,Heatwave,Low,724,1,79.1257,20.0283,1
+2025-03-12,Andhra Pradesh,Heatwave,High,3521,7,76.898,23.0763,1
+2025-03-13,Tamil Nadu,Cyclone,Medium,1297,7,78.4608,14.8433,1
+2025-03-14,Punjab,Landslide,Medium,3340,8,76.3925,17.2606,1
+2025-03-15,West Bengal,Fire,Low,4750,7,87.031,21.0154,1
+2025-03-16,Punjab,Drought,Medium,541,7,81.2857,14.1193,1
+2025-03-16,Karnataka,Landslide,High,3385,1,68.7267,11.2676,1
+2025-03-17,Karnataka,Landslide,Medium,3168,4,80.0421,21.0466,1
+2025-03-17,West Bengal,Fire,High,1581,1,77.1288,27.2924,1
+2025-03-18,Tamil Nadu,Drought,Medium,1562,2,87.6317,30.251,1
+2025-03-18,Karnataka,Tsunami,Medium,4915,8,70.5904,9.6219,1
+2025-03-19,Rajasthan,Landslide,High,330,8,77.3836,24.712,1
+2025-03-19,Karnataka,Fire,High,1250,6,91.3368,16.1964,1
+2025-03-20,Karnataka,Fire,Medium,2038,10,68.6429,31.6422,1
+2025-03-20,Uttar Pradesh,Fire,Medium,3668,10,77.198,23.3823,1
+2025-03-21,Uttar Pradesh,Earthquake,Low,4024,1,79.8476,19.9504,1
+2025-03-21,Gujarat,Tsunami,Low,3722,6,70.5544,11.8543,1
+2025-03-22,Andhra Pradesh,Cyclone,Low,2979,10,68.1824,17.9601,1
+2025-03-23,West Bengal,Landslide,Low,1999,6,86.3507,9.1228,1
+2025-03-24,Karnataka,Drought,High,4569,3,91.2333,9.7123,1
+2025-03-25,Tamil Nadu,Earthquake,High,1501,6,84.2793,19.859,1
+2025-03-25,Telangana,Earthquake,Low,4393,6,78.4369,19.6282,1
+2025-03-26,Karnataka,Tsunami,Medium,1288,2,74.7656,24.3676,1
+2025-03-27,Andhra Pradesh,Earthquake,Medium,2764,1,73.2729,19.767,1
+2025-03-28,Telangana,Fire,Medium,2271,4,72.0771,29.2032,1
+2025-03-29,Rajasthan,Flood,High,4895,11,77.9787,20.1463,1
+2025-03-29,Andhra Pradesh,Earthquake,Low,2887,11,90.4017,23.1354,1
+2025-03-30,Telangana,Cyclone,Low,3739,4,85.2596,18.4564,1
+2025-03-31,Odisha,Heatwave,Medium,2242,6,76.9843,23.0459,1
+2025-04-01,Punjab,Fire,Medium,1213,8,85.3643,16.2558,1
+2025-04-02,Karnataka,Landslide,Medium,3478,4,79.1407,8.2507,1
+2025-04-03,West Bengal,Tsunami,Low,3431,1,72.5413,29.2293,1
+2025-04-03,Tamil Nadu,Earthquake,Low,2992,1,69.5789,12.1015,1
+2025-04-04,Tamil Nadu,Landslide,Medium,4900,9,75.6618,21.4995,1
+2025-04-05,Punjab,Cyclone,Low,3507,4,79.3275,12.3931,1
+2025-04-05,Maharashtra,Cyclone,Medium,2083,7,91.5298,10.2791,1
+2025-04-06,Telangana,Heatwave,Medium,2422,9,73.0497,21.3511,1
+2025-04-07,Telangana,Cyclone,Low,2297,2,69.9723,23.1585,1
+2025-04-08,Maharashtra,Heatwave,Low,1559,10,85.5781,17.9926,1
+2025-04-08,Andhra Pradesh,Earthquake,Medium,4453,11,70.8839,31.646,1
+2025-04-09,Rajasthan,Flood,Low,4419,1,86.746,19.5484,1
+2025-04-09,Kerala,Drought,Medium,3297,5,88.893,21.0968,1
+2025-04-10,Punjab,Heatwave,Low,2244,5,72.53,27.772,1
+2025-04-11,Tamil Nadu,Heatwave,Medium,3911,6,83.4088,29.1514,1
+2025-04-11,Karnataka,Tsunami,Low,236,2,76.1746,23.4181,1
+2025-04-12,Telangana,Fire,Medium,3123,11,70.6003,25.9705,1
+2025-04-13,Telangana,Cyclone,Low,3789,1,73.3101,24.8339,1
+2025-04-14,Telangana,Earthquake,Low,2515,11,81.9576,14.1843,1
+2025-04-15,Uttar Pradesh,Tsunami,Low,1058,10,71.0579,15.3917,1
+2025-04-15,Uttar Pradesh,Fire,Low,3217,6,73.5245,31.8146,1
+2025-04-16,Andhra Pradesh,Landslide,Medium,514,5,71.7554,13.55,1
+2025-04-17,Rajasthan,Earthquake,High,3268,7,74.3124,24.9365,1
+2025-04-18,Odisha,Earthquake,High,1233,10,89.257,23.0422,1
+2025-04-19,Uttar Pradesh,Flood,Medium,415,5,79.7756,17.4441,1
+2025-04-20,Punjab,Heatwave,High,3668,9,79.553,21.7402,1
+2025-04-21,Uttar Pradesh,Earthquake,Low,2037,11,79.9241,8.2445,1
+2025-04-22,Gujarat,Heatwave,High,3718,7,80.804,14.6088,1
+2025-04-23,Kerala,Flood,Low,1818,11,78.8032,16.333,1
+2025-04-24,Punjab,Fire,High,1326,11,87.5619,24.0237,1
+2025-04-25,Karnataka,Cyclone,High,270,5,68.0578,19.2427,1
+2025-04-26,Karnataka,Tsunami,Low,3843,11,69.0368,25.9307,1
+2025-04-26,Kerala,Tsunami,High,4673,10,75.367,22.135,1
+2025-04-27,Punjab,Fire,High,636,4,90.8941,20.7604,1
+2025-04-28,Kerala,Flood,Low,343,6,82.603,14.4652,1
+2025-04-29,Andhra Pradesh,Flood,Medium,1760,7,76.2189,16.3132,1
+2025-04-29,Odisha,Earthquake,Medium,4639,3,77.3514,28.0133,1
+2025-04-30,Uttar Pradesh,Tsunami,Low,4881,4,74.015,13.232,1
+2025-04-30,Punjab,Earthquake,Low,4718,4,81.0237,24.5514,1
+2025-05-01,Tamil Nadu,Heatwave,High,4906,1,85.5822,25.931,1
+2025-05-01,Tamil Nadu,Flood,Medium,2420,8,73.1907,31.6688,1
+2025-05-02,Tamil Nadu,Landslide,Medium,1459,5,76.0231,15.2935,1
+2025-05-02,Rajasthan,Cyclone,High,1576,11,78.2194,28.3059,1
+2025-05-03,Karnataka,Tsunami,Low,3278,3,74.3756,13.9665,1
+2025-05-03,Rajasthan,Earthquake,Medium,2378,3,77.9437,11.1225,1
+2025-05-04,Maharashtra,Flood,High,2802,2,89.1549,28.7854,1
+2025-05-04,Andhra Pradesh,Heatwave,Medium,765,9,91.145,30.2346,1
+2025-05-05,Maharashtra,Landslide,Medium,545,3,85.136,29.6166,1
+2025-05-05,Andhra Pradesh,Cyclone,Medium,2759,1,80.6362,27.6943,1
+2025-05-06,Kerala,Earthquake,Medium,4733,2,73.6982,16.9836,1
+2025-05-07,Maharashtra,Flood,Low,1565,10,78.4625,22.4737,1
+2025-05-08,Odisha,Drought,Medium,4904,9,80.4302,14.972,1
+2025-05-08,Karnataka,Drought,Low,2703,7,82.7849,28.0339,1
+2025-05-09,Tamil Nadu,Fire,High,2499,11,71.265,25.9287,1
+2025-05-10,Andhra Pradesh,Fire,Medium,4705,5,73.7525,27.5651,1
+2025-05-11,West Bengal,Tsunami,Medium,3280,3,89.4536,14.7764,1
+2025-05-11,Uttar Pradesh,Flood,High,621,6,81.0067,18.1782,1
+2025-05-12,Gujarat,Fire,Medium,1978,10,79.4684,21.5288,1
+2025-05-12,Punjab,Cyclone,Medium,448,11,71.147,27.7814,1
+2025-05-13,Gujarat,Flood,Low,4535,3,70.4561,13.7125,1
+2025-05-13,Uttar Pradesh,Drought,Low,1730,5,89.8894,10.4048,1
+2025-05-14,Punjab,Flood,Medium,4448,5,73.8753,14.6344,1
+2025-05-15,Punjab,Landslide,Low,2580,9,85.7254,25.2911,1
+2025-05-15,Kerala,Drought,Low,2125,10,82.5871,15.101,1
+2025-05-16,Karnataka,Flood,Low,3949,7,89.0085,19.0445,1
+2025-05-17,West Bengal,Tsunami,Low,3719,5,87.6717,30.4189,1
+2025-05-17,Punjab,Earthquake,High,3149,8,72.5728,31.9237,1
+2025-05-18,Gujarat,Drought,Medium,3818,10,77.0163,26.052,1
+2025-05-19,Uttar Pradesh,Flood,High,3761,7,76.7874,20.2646,1
+2025-05-20,Maharashtra,Tsunami,Low,2817,3,73.3905,23.3447,1
+2025-05-20,Tamil Nadu,Earthquake,Low,214,11,91.8878,15.216,1
+2025-05-21,Telangana,Landslide,Medium,4513,11,83.7678,20.2766,1
+2025-05-22,Telangana,Landslide,High,2699,6,69.0582,24.0054,1
+2025-05-23,Karnataka,Earthquake,Medium,3524,6,88.2205,21.5355,1
+2025-05-24,Uttar Pradesh,Earthquake,Low,771,10,90.1809,22.8474,1
+2025-05-25,Telangana,Cyclone,Medium,3498,9,88.1721,30.1369,1
+2025-05-26,Andhra Pradesh,Fire,Low,4200,7,86.1514,15.243,1
+2025-05-26,Maharashtra,Heatwave,Low,2718,3,82.312,30.4305,1
+2025-05-27,Karnataka,Heatwave,Medium,1846,10,80.8067,17.363,1
+2025-05-27,Karnataka,Heatwave,High,651,7,89.4817,11.6817,1
+2025-05-28,Telangana,Tsunami,Low,4712,7,84.2752,10.58,1
+2025-05-28,Andhra Pradesh,Tsunami,High,252,2,87.7905,28.7659,1
+2025-05-29,West Bengal,Flood,Low,3256,1,72.5581,30.0098,1
+2025-05-29,Punjab,Landslide,Medium,3364,10,74.4377,29.9894,1
+2025-05-30,Andhra Pradesh,Cyclone,Low,3788,11,86.1163,8.3753,1
+2025-05-30,Rajasthan,Flood,Low,1623,6,78.973,10.0449,1
+2025-05-31,Telangana,Fire,Medium,3103,8,78.8034,21.9514,1
+2025-05-31,Andhra Pradesh,Earthquake,Medium,4332,9,90.5107,26.0816,1
+2025-06-01,Rajasthan,Tsunami,Medium,4381,5,73.2137,12.0664,1
+2025-06-02,Rajasthan,Cyclone,High,1269,8,75.8361,14.1944,1
+2025-06-03,Rajasthan,Cyclone,Medium,2245,5,83.0422,22.3288,1
+2025-06-04,Gujarat,Heatwave,High,4859,7,83.456,17.7898,1
+2025-06-04,West Bengal,Drought,Low,2910,6,68.0746,15.914,1
+2025-06-05,West Bengal,Cyclone,Low,733,11,71.4057,19.8237,1
+2025-06-05,West Bengal,Earthquake,High,2507,11,82.0133,17.6093,1
+2025-06-06,Maharashtra,Cyclone,High,2488,6,86.0806,23.6492,1
+2025-06-06,Maharashtra,Heatwave,High,2421,9,83.1066,20.0964,1
+2025-06-07,Gujarat,Drought,Low,4523,2,70.2567,21.8407,1
+2025-06-08,Kerala,Earthquake,Medium,3730,4,72.6949,26.6542,1
+2025-06-09,Uttar Pradesh,Flood,Medium,3270,3,84.8041,19.0273,1
+2025-06-09,Odisha,Earthquake,High,1417,10,74.0926,29.5997,1
+2025-06-10,West Bengal,Earthquake,High,1671,7,69.7459,11.3859,1
+2025-06-10,Karnataka,Fire,High,528,1,70.061,20.5613,1
+2025-06-11,Kerala,Heatwave,High,3275,1,89.1663,10.3258,1
+2025-06-11,Maharashtra,Landslide,High,3395,4,86.0681,25.14,1
+2025-06-12,Rajasthan,Drought,High,1418,3,86.3577,28.8085,1
+2025-06-12,Rajasthan,Flood,Medium,877,4,85.2376,27.9708,1
+2025-06-13,Rajasthan,Tsunami,Medium,4501,5,68.9968,14.0178,1
+2025-06-14,Gujarat,Flood,High,1677,5,88.6887,15.2262,1
+2025-06-15,Andhra Pradesh,Flood,Low,3570,5,76.644,8.6574,1
+2025-06-16,Karnataka,Drought,High,4623,5,80.4808,8.0655,1
+2025-06-17,Karnataka,Drought,Medium,3807,11,72.9594,28.0069,1
+2025-06-17,Uttar Pradesh,Earthquake,Medium,992,10,82.4719,19.5593,1
+2025-06-18,Gujarat,Flood,Low,3555,8,80.3992,23.2014,1
+2025-06-19,Rajasthan,Heatwave,Low,1670,9,87.6456,8.4254,1
+2025-06-20,Odisha,Fire,High,4262,2,80.9592,10.9108,1
+2025-06-20,Maharashtra,Fire,High,3610,5,85.1415,31.4422,1
+2025-06-21,Karnataka,Heatwave,High,1255,2,83.5094,30.4567,1
+2025-06-22,West Bengal,Drought,High,808,10,73.0852,19.6539,1
+2025-06-23,Uttar Pradesh,Fire,Medium,213,7,88.9997,8.9646,1
+2025-06-24,West Bengal,Earthquake,Low,2759,7,81.7363,24.1627,1
+2025-06-24,West Bengal,Tsunami,Low,3561,10,77.1144,25.9949,1
+2025-06-25,Odisha,Cyclone,High,451,4,90.2989,16.7765,1
+2025-06-25,Gujarat,Drought,Low,1077,1,69.0736,30.8946,1
+2025-06-26,West Bengal,Flood,Low,4698,8,77.852,29.7501,1
+2025-06-26,Maharashtra,Cyclone,Low,2847,5,86.6498,27.7215,1
+2025-06-27,Maharashtra,Drought,Low,271,9,84.5615,20.6799,1
+2025-06-28,Rajasthan,Flood,Medium,3027,4,72.5774,23.6667,1
+2025-06-28,Maharashtra,Cyclone,Low,3919,1,74.8092,26.1325,1
+2025-06-29,Tamil Nadu,Heatwave,High,182,4,68.9356,25.5601,1
+2025-06-30,West Bengal,Fire,Low,4686,8,70.2065,26.0375,1
+2025-07-01,Andhra Pradesh,Cyclone,High,2743,2,83.2856,12.0781,1
+2025-07-02,Telangana,Heatwave,Medium,2261,4,82.9832,9.6628,1
+2025-07-02,Maharashtra,Heatwave,High,178,1,87.4511,21.5636,1
+2025-07-03,Punjab,Landslide,High,944,4,77.945,11.3961,1
+2025-07-04,Punjab,Tsunami,Medium,1150,9,81.8661,16.6085,1
+2025-07-04,Kerala,Fire,Medium,1654,7,78.3659,22.6898,1
+2025-07-05,Tamil Nadu,Cyclone,Medium,1976,10,81.7736,29.8218,1
+2025-07-06,Odisha,Earthquake,Medium,3856,1,71.7151,31.1046,1
+2025-07-06,Punjab,Flood,Low,2914,11,84.8295,24.9758,1
+2025-07-07,Gujarat,Landslide,Medium,2621,8,71.0959,8.0054,1
+2025-07-08,Kerala,Heatwave,High,3673,1,75.2176,20.9842,1
+2025-07-08,Maharashtra,Tsunami,Medium,3229,2,84.9509,9.076,1
+2025-07-09,Kerala,Heatwave,High,1476,2,78.4803,8.0463,1
+2025-07-10,Kerala,Drought,Low,3076,8,80.5144,22.4025,1
+2025-07-10,Tamil Nadu,Landslide,Medium,771,11,86.7002,16.6999,1
+2025-07-11,Gujarat,Cyclone,Low,1636,4,73.6251,20.2921,1
+2025-07-12,Telangana,Tsunami,Medium,2720,10,84.7173,17.5262,1
+2025-07-12,Gujarat,Landslide,Medium,2198,10,88.9707,16.5999,1
+2025-07-13,West Bengal,Earthquake,High,3784,8,85.8899,26.9769,1
+2025-07-14,Maharashtra,Landslide,High,3442,9,87.6438,21.8665,1
+2025-07-15,Gujarat,Tsunami,Medium,1857,7,78.6548,28.8351,1
+2025-07-15,Andhra Pradesh,Flood,Low,620,1,90.9232,19.0936,1
+2025-07-16,Odisha,Tsunami,High,1948,6,68.7483,24.517,1
+2025-07-16,West Bengal,Earthquake,High,2560,8,90.4716,26.2589,1
+2025-07-17,Kerala,Heatwave,High,3787,6,78.6727,16.3779,1
+2025-07-18,Punjab,Fire,Low,3396,8,89.3951,8.2444,1
+2025-07-19,West Bengal,Flood,Medium,4324,3,68.7796,8.63,1
+2025-07-20,West Bengal,Earthquake,High,4557,11,88.6782,30.6037,1
+2025-07-21,Tamil Nadu,Flood,Low,1373,8,86.0542,18.4944,1
+2025-07-22,West Bengal,Landslide,High,368,9,81.6468,19.0337,1
+2025-07-23,Kerala,Drought,Medium,973,8,83.1856,29.3058,1
+2025-07-23,Kerala,Tsunami,Medium,3582,7,90.2474,20.4352,1
+2025-07-24,Andhra Pradesh,Landslide,High,3663,1,82.7296,26.1147,1
+2025-07-25,Maharashtra,Cyclone,Low,2599,7,78.7169,9.9169,1
+2025-07-26,West Bengal,Drought,Medium,791,8,76.2892,14.4094,1
+2025-07-27,Odisha,Earthquake,Medium,3927,10,68.7518,12.8194,1
+2025-07-28,Gujarat,Landslide,Low,4436,4,68.0694,21.5963,1
+2025-07-29,Andhra Pradesh,Heatwave,Low,1462,1,84.6892,14.0073,1
+2025-07-30,Rajasthan,Fire,Low,3851,4,68.4036,23.6271,1
+2025-07-30,Telangana,Heatwave,High,3043,10,86.6922,28.034,1
+2025-07-31,Rajasthan,Drought,Medium,3921,10,88.4802,14.6336,1
+2025-07-31,Tamil Nadu,Flood,High,2799,6,71.3455,28.1487,1
+2025-08-01,Gujarat,Heatwave,Medium,4906,5,84.1901,30.2958,1
+2025-08-02,Gujarat,Flood,Medium,3942,6,68.4129,20.2998,1
+2025-08-02,Maharashtra,Heatwave,High,3301,8,80.3064,27.7387,1
+2025-08-03,Uttar Pradesh,Earthquake,High,3956,7,87.7973,8.25,1
+2025-08-04,Kerala,Cyclone,Medium,2439,11,70.0266,8.5052,1
+2025-08-05,Kerala,Cyclone,Low,1586,7,76.0417,23.1241,1
+2025-08-05,Tamil Nadu,Drought,Low,1715,6,75.0282,20.4501,1
+2025-08-06,West Bengal,Cyclone,Medium,368,1,87.5035,26.0836,1
+2025-08-07,Telangana,Flood,Low,2416,11,86.3102,9.3277,1
+2025-08-07,Gujarat,Cyclone,Medium,3607,3,80.1385,15.1246,1
+2025-08-08,Gujarat,Earthquake,Low,1641,7,84.7366,14.4521,1
+2025-08-08,Rajasthan,Tsunami,Medium,442,11,69.9126,28.3792,1
+2025-08-09,Kerala,Drought,Medium,1060,11,88.3961,28.1236,1
+2025-08-09,Uttar Pradesh,Heatwave,High,3434,9,79.3161,16.6362,1
+2025-08-10,Gujarat,Drought,Medium,3996,8,82.2848,18.002,1
+2025-08-11,Maharashtra,Landslide,Medium,1868,11,77.7857,28.9131,1
+2025-08-12,Andhra Pradesh,Cyclone,Medium,1103,7,91.5491,24.3753,1
+2025-08-12,Uttar Pradesh,Earthquake,Medium,2242,10,87.3578,14.2054,1
+2025-08-13,Odisha,Fire,High,2205,7,68.1146,28.6928,1
+2025-08-13,Telangana,Landslide,Low,740,2,73.6812,22.5932,1
+2025-08-14,Telangana,Earthquake,Medium,1102,11,84.2208,17.1358,1
+2025-08-15,Maharashtra,Cyclone,Medium,3697,11,78.5332,12.0963,1
+2025-08-15,West Bengal,Tsunami,Medium,2273,10,80.0033,20.1407,1
+2025-08-16,West Bengal,Tsunami,High,1555,8,80.901,15.344,1
+2025-08-17,Rajasthan,Heatwave,Low,2914,1,73.3755,15.738,1
+2025-08-18,West Bengal,Earthquake,High,1283,11,69.389,30.8226,1
+2025-08-18,Andhra Pradesh,Heatwave,Medium,4141,2,82.2305,19.7684,1
+2025-08-19,Gujarat,Earthquake,Medium,2807,7,80.8025,27.7115,1
+2025-08-20,Maharashtra,Fire,Low,2063,8,73.6667,31.0858,1
+2025-08-21,Punjab,Cyclone,High,2364,9,78.2637,22.7987,1
+2025-08-22,Odisha,Landslide,Low,2806,11,87.3004,9.9457,1
+2025-08-23,Andhra Pradesh,Landslide,High,115,2,68.8925,24.6182,1
+2025-08-23,Tamil Nadu,Fire,Low,4295,9,86.854,18.512,1
+2025-08-24,Maharashtra,Drought,High,1151,7,90.8424,10.7685,1
+2025-08-24,Andhra Pradesh,Flood,Medium,578,3,72.1482,11.6822,1
+2025-08-25,Rajasthan,Flood,High,2534,7,69.033,31.6006,1
+2025-08-25,Telangana,Heatwave,Medium,171,6,79.512,28.8403,1
+2025-08-26,Gujarat,Flood,High,4607,11,74.7895,30.0959,1
+2025-08-26,West Bengal,Tsunami,Medium,1074,5,75.4533,26.4748,1
+2025-08-27,Punjab,Fire,High,2830,10,80.9729,28.1535,1
+2025-08-27,West Bengal,Heatwave,High,3988,11,80.76,11.7449,1
+2025-08-28,Odisha,Heatwave,Medium,1414,9,74.6576,24.6065,1
+2025-08-28,Karnataka,Landslide,High,4314,6,68.961,30.6408,1
+2025-08-29,Andhra Pradesh,Cyclone,High,1441,8,75.5723,13.5845,1
+2025-08-29,Telangana,Heatwave,High,3166,5,86.9452,22.4971,1
+2025-08-30,Rajasthan,Flood,High,4689,1,86.2323,31.6547,1
+2025-08-31,Gujarat,Flood,Low,640,1,88.3596,14.7612,1
+2025-08-31,Kerala,Fire,Medium,1437,9,83.3781,10.86,1
+2025-09-01,Telangana,Landslide,Medium,2021,3,90.2489,18.5392,1
+2025-09-02,Rajasthan,Flood,High,4593,7,73.3851,24.0486,1
+2025-09-02,Gujarat,Earthquake,Low,1412,7,77.7956,20.7158,1
+2025-09-03,Gujarat,Cyclone,Medium,2666,8,82.8025,29.8854,1
+2025-09-03,West Bengal,Cyclone,High,561,2,75.9688,26.2373,1
+2025-09-04,Uttar Pradesh,Drought,Medium,2977,4,83.6637,24.5782,1
+2025-09-04,Tamil Nadu,Fire,Medium,3086,3,79.0852,28.6911,1
+2025-09-05,Karnataka,Earthquake,Medium,2016,8,91.5451,25.7608,1
+2025-09-05,Kerala,Landslide,Medium,4428,9,86.4751,20.1722,1
+2025-09-06,Punjab,Earthquake,Medium,4465,11,70.3929,21.7288,1
+2025-09-06,Gujarat,Earthquake,High,853,9,71.9553,12.7081,1
+2025-09-07,Telangana,Drought,Medium,3654,9,75.1293,11.255,1
+2025-09-07,Punjab,Fire,High,2581,9,81.0505,23.6487,1
+2025-09-08,Rajasthan,Landslide,High,1020,10,75.9437,20.2775,1
+2025-09-08,West Bengal,Earthquake,Low,3946,4,73.7153,14.2199,1
+2025-09-09,Uttar Pradesh,Cyclone,High,3827,10,71.3931,19.7562,1
+2025-09-09,Karnataka,Tsunami,Low,441,2,82.6124,19.4118,1
+2025-09-10,Rajasthan,Heatwave,High,1638,9,83.8071,17.1583,1
+2025-09-10,Andhra Pradesh,Flood,Medium,4187,4,82.2046,24.1461,1
+2025-09-11,Rajasthan,Heatwave,High,3640,2,85.778,17.8404,1
+2025-09-12,Telangana,Cyclone,Medium,3049,9,76.1866,18.5484,1
+2025-09-13,Karnataka,Landslide,Low,1552,8,72.357,12.2013,1
+2025-09-14,West Bengal,Earthquake,Low,3840,9,79.58,8.9197,1
+2025-09-15,Kerala,Tsunami,Medium,2401,3,76.4913,12.2892,1
+2025-09-15,Rajasthan,Cyclone,Medium,4462,8,70.7037,10.6372,1
+2025-09-16,Karnataka,Heatwave,Medium,3490,11,76.4357,17.8383,1
+2025-09-17,Telangana,Tsunami,Medium,1353,9,81.78,25.8451,1
+2025-09-17,Gujarat,Heatwave,High,2076,1,86.3255,24.3104,1
+2025-09-18,West Bengal,Tsunami,Medium,1108,3,79.7503,31.4557,1
+2025-09-19,Kerala,Drought,High,4021,7,89.0648,8.6183,1
+2025-09-20,Tamil Nadu,Fire,Medium,4435,2,68.1229,28.3978,1
+2025-09-21,Odisha,Landslide,Low,2132,9,77.2076,17.0446,1
+2025-09-22,Gujarat,Earthquake,Low,4950,4,69.7653,9.9167,1
+2025-09-23,Punjab,Flood,Medium,2742,4,72.8473,15.0482,1
+2025-09-23,Kerala,Tsunami,High,464,2,85.8232,21.3046,1
+2025-09-24,Rajasthan,Tsunami,Low,3162,11,83.7033,16.7831,1
+2025-09-25,Andhra Pradesh,Fire,High,2676,11,84.5351,12.3545,1
+2025-09-26,Telangana,Fire,Medium,1545,2,69.459,13.9468,1
+2025-09-27,Odisha,Flood,High,1350,11,88.5499,8.64,1
+2025-09-27,Rajasthan,Tsunami,High,4697,7,76.9939,19.3281,1
+2025-09-28,Punjab,Fire,Medium,2006,6,87.8664,20.03,1
+2025-09-28,Gujarat,Tsunami,High,3244,5,80.0364,28.5398,1
+2025-09-29,Andhra Pradesh,Earthquake,High,940,5,70.6424,25.3757,1
+2025-09-30,Kerala,Drought,Medium,1218,11,81.7987,13.0392,1
+2025-09-30,Odisha,Drought,High,1548,5,69.5541,25.858,1
+2025-10-01,West Bengal,Tsunami,High,2744,5,69.3154,11.4702,1
+2025-10-01,Rajasthan,Tsunami,High,3053,3,69.4209,28.2106,1
+2025-10-02,Punjab,Landslide,Low,1088,11,87.0418,28.7863,1
+2025-10-02,Rajasthan,Earthquake,High,1508,8,75.2911,29.7191,1
+2025-10-03,West Bengal,Drought,High,3225,1,81.5263,14.8236,1
+2025-10-03,Telangana,Cyclone,Medium,383,6,89.9606,27.058,1
+2025-10-04,West Bengal,Earthquake,Medium,2597,3,90.6375,13.5,1
+2025-10-05,Uttar Pradesh,Landslide,Medium,4214,2,74.6923,30.55,1
+2025-10-05,Andhra Pradesh,Fire,Medium,3951,4,87.0141,18.3578,1
+2025-10-06,Punjab,Cyclone,Low,4801,7,76.2204,13.5444,1
+2025-10-06,Odisha,Tsunami,Low,1055,10,72.0346,15.019,1
+2025-10-07,Kerala,Drought,High,1572,2,81.9798,18.2305,1
+2025-10-07,Andhra Pradesh,Earthquake,Medium,822,11,68.4997,31.7681,1
+2025-10-08,Maharashtra,Drought,Low,3589,11,75.1413,24.1701,1
+2025-10-09,Uttar Pradesh,Drought,Medium,2948,2,88.7175,29.9728,1
+2025-10-10,Tamil Nadu,Flood,High,2884,5,87.9721,18.4186,1
+2025-10-11,Telangana,Landslide,Low,2539,7,88.8667,30.0829,1
+2025-10-11,Gujarat,Heatwave,Medium,3203,9,71.526,13.5264,1
+2025-10-12,Maharashtra,Flood,High,3897,3,85.811,15.5939,1
+2025-10-13,Kerala,Landslide,Medium,2464,8,82.8373,18.008,1
+2025-10-14,Odisha,Landslide,High,3680,10,82.3371,9.7819,1
+2025-10-15,Tamil Nadu,Heatwave,Low,1264,2,86.8336,17.7804,1
+2025-10-16,Uttar Pradesh,Fire,High,2614,8,85.675,24.4313,1
+2025-10-16,Tamil Nadu,Cyclone,Medium,435,9,69.4194,11.1699,1
+2025-10-17,Telangana,Landslide,High,3867,10,88.0604,17.5953,1
+2025-10-18,Maharashtra,Cyclone,Low,622,11,76.7426,28.8085,1
+2025-10-18,Rajasthan,Landslide,Low,2629,10,80.1855,18.2209,1
+2025-10-19,Tamil Nadu,Heatwave,Medium,537,6,68.3586,28.0264,1
+2025-10-20,Telangana,Heatwave,Medium,3773,8,83.3527,17.3816,1
+2025-10-20,Kerala,Drought,Low,2986,4,80.5387,8.6281,1
+2025-10-21,Telangana,Earthquake,Medium,4996,6,78.1037,31.0814,1
+2025-10-22,Maharashtra,Fire,Low,1784,5,83.6807,11.4709,1
+2025-10-22,Telangana,Drought,Medium,2953,4,82.4192,22.4649,1
+2025-10-23,Odisha,Tsunami,Medium,2220,6,81.1129,10.0881,1
+2025-10-24,Gujarat,Drought,Medium,2249,10,84.8386,15.6797,1
+2025-10-24,Karnataka,Fire,High,1674,6,88.6636,21.3401,1
+2025-10-25,Andhra Pradesh,Heatwave,Low,4962,2,68.8375,17.5934,1
+2025-10-26,Rajasthan,Landslide,Medium,2298,9,77.6018,13.6307,1
+2025-10-26,Tamil Nadu,Tsunami,Medium,1547,3,79.4995,25.7363,1
+2025-10-27,Kerala,Drought,High,4825,5,71.3554,9.3794,1
+2025-10-28,Kerala,Landslide,Low,3757,11,90.607,30.669,1
+2025-10-28,West Bengal,Landslide,Medium,992,11,83.3693,22.9047,1
+2025-10-29,Telangana,Landslide,Low,703,8,70.639,26.4618,1
+2025-10-29,Maharashtra,Flood,Low,4787,9,87.3891,11.3904,1
+2025-10-30,Punjab,Heatwave,Low,4293,5,86.9876,15.8331,1
+2025-10-31,West Bengal,Landslide,Low,2002,6,78.0886,8.6917,1
+2025-11-01,Kerala,Landslide,Medium,1097,8,69.3083,20.0952,1
+2025-11-01,Gujarat,Heatwave,Low,4632,5,77.2802,21.0413,1
+2025-11-02,Kerala,Fire,Low,3226,9,73.6816,19.2939,1
+2025-11-03,Tamil Nadu,Drought,Low,597,4,84.1952,17.8077,1
+2025-11-04,Gujarat,Heatwave,High,2933,10,75.5864,22.5997,1
+2025-11-04,Telangana,Drought,Medium,3286,7,81.009,23.9532,1
+2025-11-05,Rajasthan,Flood,High,4059,5,86.4201,15.325,1
+2025-11-05,Karnataka,Tsunami,High,3072,11,74.7493,29.6577,1
+2025-11-06,Uttar Pradesh,Heatwave,Low,4513,9,84.6985,15.2906,1
+2025-11-07,Gujarat,Landslide,Medium,2757,11,78.7669,9.8397,1
+2025-11-07,Karnataka,Cyclone,Medium,4229,7,81.3059,19.2962,1
+2025-11-08,Uttar Pradesh,Fire,Low,2244,4,73.7596,11.8855,1
+2025-11-09,Telangana,Landslide,High,2329,7,84.4039,10.7046,1
+2025-11-09,Tamil Nadu,Cyclone,Medium,261,3,73.7783,10.3003,1
+2025-11-10,Gujarat,Tsunami,High,3715,10,77.1394,12.4637,1
+2025-11-10,Andhra Pradesh,Flood,Low,3350,4,68.6882,30.677,1
+2025-11-11,Uttar Pradesh,Earthquake,Low,1236,4,90.2752,15.2228,1
+2025-11-11,Andhra Pradesh,Tsunami,Medium,1323,5,86.1853,28.0778,1
+2025-11-12,Uttar Pradesh,Flood,High,3729,1,85.5716,14.9433,1
+2025-11-12,Punjab,Heatwave,Low,1518,6,72.5141,27.6919,1
+2025-11-13,Uttar Pradesh,Tsunami,Low,4495,5,82.9087,19.8296,1
+2025-11-13,West Bengal,Flood,High,1121,8,68.4014,31.5583,1
+2025-11-14,Kerala,Flood,High,3391,4,89.6848,15.9276,1
+2025-11-15,West Bengal,Cyclone,High,838,6,82.3773,16.0331,1
+2025-11-16,Kerala,Landslide,High,563,1,79.7585,29.329,1
+2025-11-17,Rajasthan,Drought,High,3786,8,83.7654,19.1438,1
+2025-11-17,Uttar Pradesh,Landslide,Low,457,4,89.5096,19.7027,1
+2025-11-18,Odisha,Fire,Low,3779,2,83.5187,14.5499,1
+2025-11-18,Maharashtra,Cyclone,Medium,2348,7,84.0567,10.3218,1
+2025-11-19,Maharashtra,Tsunami,High,940,11,78.6625,15.0058,1
+2025-11-19,Rajasthan,Heatwave,Low,2009,11,89.7475,23.2188,1
+2025-11-20,Kerala,Flood,Low,1857,3,83.5172,15.2653,1
+2025-11-21,West Bengal,Heatwave,Medium,1556,7,85.0403,27.376,1
+2025-11-21,Rajasthan,Cyclone,Medium,272,10,90.3293,22.8533,1
+2025-11-22,Uttar Pradesh,Earthquake,Low,102,8,81.2883,14.9297,1
+2025-11-23,Tamil Nadu,Fire,Low,1962,8,90.8359,25.5755,1
+2025-11-24,Uttar Pradesh,Tsunami,Low,4511,5,85.1484,25.1008,1
+2025-11-24,Gujarat,Heatwave,Low,1279,1,75.4098,17.8974,1
+2025-11-25,Maharashtra,Tsunami,Low,2250,5,81.3858,30.781,1
+2025-11-25,West Bengal,Flood,High,2586,11,79.9821,29.2426,1
+2025-11-26,Andhra Pradesh,Fire,Medium,3260,7,80.825,8.9546,1
+2025-11-26,Telangana,Earthquake,Low,1324,2,73.1665,21.9168,1
+2025-11-27,Gujarat,Earthquake,Medium,3206,3,88.2361,8.3594,1
+2025-11-28,Maharashtra,Heatwave,Medium,1025,10,69.9875,9.8848,1
+2025-11-29,Maharashtra,Drought,Medium,2490,2,77.6991,11.0089,1
+2025-11-29,Maharashtra,Heatwave,Medium,3792,9,89.5248,21.7484,1
+2025-11-30,Kerala,Fire,Low,3504,5,83.9193,14.4213,1
+2025-12-01,Rajasthan,Earthquake,Medium,4308,4,77.79,22.8389,1
+2025-12-02,Andhra Pradesh,Earthquake,Low,4394,10,72.6615,19.5882,1
+2025-12-02,Punjab,Fire,Medium,1642,9,72.5077,21.2106,1
+2025-12-03,Punjab,Earthquake,High,4953,9,91.84,28.8376,1
+2025-12-03,Kerala,Drought,High,2868,5,74.9894,8.9587,1
+2025-12-04,Telangana,Drought,Medium,4616,2,73.2943,30.5742,1
+2025-12-05,Andhra Pradesh,Cyclone,Low,4758,9,70.1856,10.5056,1
+2025-12-05,Odisha,Drought,Low,4564,1,78.3785,18.2895,1
+2025-12-06,Maharashtra,Fire,High,4647,6,80.7671,27.1836,1
+2025-12-07,Tamil Nadu,Tsunami,Medium,2887,8,85.6153,19.7902,1
+2025-12-07,Rajasthan,Cyclone,Medium,3460,4,70.1836,28.0899,1
+2025-12-08,West Bengal,Drought,Medium,2712,9,82.8166,27.8512,1
+2025-12-08,Telangana,Landslide,Low,883,4,70.6868,29.3943,1
+2025-12-09,Telangana,Heatwave,High,4001,5,72.6361,14.2716,1
+2025-12-09,Odisha,Drought,Low,4098,7,88.185,16.2556,1
+2025-12-10,Odisha,Earthquake,Medium,3762,2,71.9324,9.0676,1
+2025-12-10,Kerala,Cyclone,Medium,2339,4,89.2037,15.2098,1
+2025-12-11,West Bengal,Drought,Medium,4627,6,73.5426,19.8582,1
+2025-12-12,Andhra Pradesh,Flood,Low,1448,4,89.1345,14.8042,1
+2025-12-13,Uttar Pradesh,Fire,High,940,3,79.1494,25.626,1
+2025-12-13,West Bengal,Landslide,Low,4238,1,70.756,28.6143,1
+2025-12-14,Uttar Pradesh,Flood,High,1835,3,81.9851,24.0623,1
+2025-12-14,Maharashtra,Tsunami,High,3913,6,76.6013,17.2543,1
+2025-12-15,Gujarat,Fire,High,1378,2,75.3908,11.6148,1
+2025-12-16,Uttar Pradesh,Drought,High,2470,8,88.3175,31.402,1
+2025-12-17,Rajasthan,Flood,Medium,4556,7,70.9838,17.3516,1
+2025-12-17,Rajasthan,Landslide,Medium,766,6,90.3094,30.4963,1
+2025-12-18,Andhra Pradesh,Fire,High,143,3,89.5277,9.4762,1
+2025-12-18,Odisha,Fire,Low,3961,3,81.8203,30.8015,1
+2025-12-19,Telangana,Earthquake,High,2712,10,84.7331,22.3285,1
+2025-12-20,Maharashtra,Tsunami,Low,3072,2,71.1968,20.9457,1
+2025-12-21,Uttar Pradesh,Drought,Low,3863,4,80.6889,8.2186,1
+2025-12-21,Kerala,Landslide,Low,1064,11,73.1566,8.0539,1
+2025-12-22,Rajasthan,Cyclone,High,3323,10,90.8862,31.1493,1
+2025-12-22,Gujarat,Cyclone,High,142,7,76.289,9.1989,1
+2025-12-23,Odisha,Flood,Low,4048,11,70.3389,23.8742,1
+2025-12-23,Rajasthan,Cyclone,Medium,2952,8,83.7519,8.6021,1
+2025-12-24,Punjab,Fire,Medium,3938,2,87.0206,15.0546,1
+2025-12-24,Kerala,Heatwave,Low,422,6,74.9883,16.4781,1
+2025-12-25,Odisha,Flood,Medium,1599,6,90.6972,20.5551,1
+2025-12-26,Punjab,Landslide,Low,2195,5,91.7939,25.1648,1
+2025-12-27,Uttar Pradesh,Flood,Low,4300,5,81.3297,11.9994,1
+2025-12-28,Uttar Pradesh,Flood,Low,4058,9,89.82,12.039,1
+2025-12-28,Maharashtra,Earthquake,Medium,2712,3,73.556,23.5714,1
+2025-12-29,Karnataka,Cyclone,Low,4091,4,88.9459,20.2194,1
+2025-12-29,West Bengal,Tsunami,Medium,4111,4,87.7497,26.8689,1
+2025-12-30,Andhra Pradesh,Earthquake,Low,1100,7,76.8882,16.0736,1
+2025-12-30,Telangana,Fire,Low,2566,3,80.5572,22.7881,1
+2025-12-31,Telangana,Flood,Medium,2318,8,68.4699,9.0404,1
